@@ -1,0 +1,41 @@
+.\mup_settings_ff0404070620.txt\\file name
+.\test_summarize_2_10.txt\\summarize
+.\data_random\ff.net\\net
+.\data_random\07.rep\\replic
+.\data_random\04.dem\\unicast
+\\anycast
+\\multicast
+.\data_random\04.dea\\anycast1dir
+50\\transfer multiplier
+.\data_random\ff30_p.pat\\paths
+.\data_random\ff30_b.pat\\paths_backup
+.\data_random\f_p.spec\\unispec
+.\data_random\f_b.spec\\unispec_backup
+\\unireg
+\\trees
+\\treespec
+\\treereg
+20\\paths to use
+0\\trees to use
+06\\cores
+\\modulation
+\\solution
+HighestSlot\\fit func
+muppets\\algorithm
+43200\\max time
+21600\\switch time
+8889999\\probing time
+7000\\pattern pool size
+0\\the same pattern check
+3\\minimal pattern length
+16\\virus generations
+100\\population size
+0.12000000\\virus prob cut
+0.15000000\\virus prob splice
+0.05000000\\virus prob mutation
+0.05000000\\virus prob rem gene
+0.05000000\\virus prob add gene
+100\\virginity rounds
+0\\ct add remove strategy (0-classic; 1-new)
+0\\Bayesian effect (0-none; 1-brutal; 2-clever)
+2\\Solution constructon (0-normal; 1-fluent optimization)

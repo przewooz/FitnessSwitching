@@ -1,0 +1,33 @@
+.\tabu_settings_ff0303070920.txt\\file name
+.\test_summarize_2_10.txt\\summarize
+.\data_random\ff.net\\net
+.\data_random\07.rep\\replic
+.\data_random\03.dem\\unicast
+\\anycast
+\\multicast
+.\data_random\03.dea\\anycast1dir
+50\\transfer multiplier
+.\data_random\ff30_p.pat\\paths
+.\data_random\ff30_b.pat\\paths_backup
+.\data_random\f_p.spec\\unispec
+.\data_random\f_b.spec\\unispec_backup
+\\unireg
+\\trees
+\\treespec
+\\treereg
+20\\paths to use
+0\\trees to use
+09\\cores
+\\modulation
+\\solution
+HighestSlot\\fit func
+tabu\\algorithm
+43200\\max time
+21600\\switch time
+8889999\\probing time
+2\\Solution constructon (0-normal; 1-fluent optimization)
+0.05000000\\ProRep
+0.05000000\\ProPath
+2.00000000\\TabuListLimitPercent
+0.50000000\\NoImprovementLimitPercent
+0.60000000\\WorseningFactor
