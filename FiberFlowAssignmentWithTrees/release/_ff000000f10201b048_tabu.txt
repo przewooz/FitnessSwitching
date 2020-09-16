@@ -1,0 +1,33 @@
+.\zz_test_run_\\file name
+.\test_summarize_2_10.txt\\summarize
+.\data2\ff.net\\net
+.\data2\11.rep\\replic
+\\unicast
+\\anycast
+\\multicast
+.\data2\01.dea\\anycast1dir
+50\\transfer multiplier
+.\data2\ff30_p.pat\\paths
+.\data2\ff30_b.pat\\paths_backup
+.\data2\f_p.spec\\unispec
+.\data2\f_b.spec\\unispec_backup
+\\unireg
+\\trees
+\\treespec
+\\treereg
+2\\paths to use
+0\\trees to use
+1\\cores
+\\modulation
+\\solution
+HighestSlot\\fit func
+tabu\\algorithm
+30\\max time
+9999\\switch time
+9999\\probing time
+2\\Solution constructon (0-normal; 1-fluent optimization)
+0.05\\ProRep
+0\\ProPath
+2\\TabuListLimitPercent
+2\\NoImprovementLimitPercent
+0.1\\WorseningFactor

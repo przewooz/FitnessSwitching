@@ -1,0 +1,134 @@
+In parameters read: z_mup_settings_ff0101070302.txt
+Initializing...
+Initting...1
+Initting...2
+Started..
+removing virginity start fitness: 1061.00000000 [evaluations:1] (solBTime:0.0000) [clePathFitEval:0] [clePathFitInit:0] [time passed:0.0002]
+removing virginity fitness: 1032.00000000 [evaluations:195] (solBTime:0.0000) [clePathFitEval:50741] [clePathFitInit:2] [time passed:28.5684]
+removing virginity fitness: 1018.00000000 [evaluations:380] (solBTime:0.0000) [clePathFitEval:107290] [clePathFitInit:4] [time passed:55.7696]
+removing virginity fitness: 1017.00000000 [evaluations:799] (solBTime:0.0000) [clePathFitEval:164166] [clePathFitInit:6] [time passed:116.7478]
+removing virginity fitness: 1012.00000000 [evaluations:1108] (solBTime:0.0000) [clePathFitEval:217492] [clePathFitInit:8] [time passed:162.4833]
+removing virginity fitness: 1011.00000000 [evaluations:1420] (solBTime:0.0000) [clePathFitEval:266865] [clePathFitInit:10] [time passed:208.2957]
+removing virginity fitness: 1006.00000000 [evaluations:1610] (solBTime:0.0000) [clePathFitEval:321207] [clePathFitInit:12] [time passed:236.1746]
+removing virginity fitness: 1006.00000000 [evaluations:3528] (solBTime:0.0000) [clePathFitEval:371466] [clePathFitInit:13] [time passed:514.7361]
+SWITCHING TO FLUENT OPTIMIZATION: Before Fit=0.00099404  CT=1006.00000000  AFTER Fit=0.00099404  CT=1006.00000000
+removing virginity start fitness: 1006.00000000 [evaluations:3531] (solBTime:0.0000) [clePathFitEval:371466] [clePathFitInit:13] [time passed:515.1764]
+removing virginity fitness: 1000.00000000 [evaluations:3831] (solBTime:0.0000) [clePathFitEval:421429] [clePathFitInit:15] [time passed:559.4266]
+removing virginity fitness: 996.00000000 [evaluations:5519] (solBTime:0.0000) [clePathFitEval:473791] [clePathFitInit:17] [time passed:806.8729]
+removing virginity fitness: 995.00000000 [evaluations:6187] (solBTime:0.0000) [clePathFitEval:525428] [clePathFitInit:19] [time passed:905.8752]
+removing virginity fitness: 994.00000000 [evaluations:7441] (solBTime:0.0000) [clePathFitEval:577667] [clePathFitInit:21] [time passed:1090.8146]
+removing virginity fitness: 992.00000000 [evaluations:8799] (solBTime:0.0000) [clePathFitEval:623143] [clePathFitInit:23] [time passed:1291.7334]
+removing virginity fitness: 992.00000000 [evaluations:10721] (solBTime:0.0000) [clePathFitEval:672192] [clePathFitInit:24] [time passed:1576.8943]
+Generation: 0 ct number: 1 (best fitness: 992.00000000) average: 0.00100806 best - average:0.00000000  [evaluations:10722] (solBTime:0.0000) [clePathFitEval:724421] [clePathFitInit:25] [time passed:1577.1296]
+SWITCHING TO FLUENT OPTIMIZATION: Before Fit=0.00100806  CT=992.00000000  AFTER Fit=0.00100806  CT=992.00000000
+removing virginity start fitness: 992.00000000 [evaluations:10725] (solBTime:0.0000) [clePathFitEval:724421] [clePathFitInit:25] [time passed:1577.5917]
+removing virginity fitness: 992.00000000 [evaluations:12648] (solBTime:0.0000) [clePathFitEval:773865] [clePathFitInit:26] [time passed:1862.0475]
+Generation: 1 ct number: 1 (best fitness: 992.00000000) average: 0.00100806 best - average:0.00000000  [evaluations:12649] (solBTime:0.0000) [clePathFitEval:826531] [clePathFitInit:27] [time passed:1862.2865]
+ct number refresh; number after refresh: 1    patterns number: 1
+SWITCHING TO FLUENT OPTIMIZATION: Before Fit=0.00100806  CT=992.00000000  AFTER Fit=0.00100806  CT=992.00000000
+removing virginity start fitness: 992.00000000 [evaluations:12652] (solBTime:0.0000) [clePathFitEval:826531] [clePathFitInit:27] [time passed:1862.7599]
+removing virginity fitness: 991.00000000 [evaluations:13525] (solBTime:0.0000) [clePathFitEval:879064] [clePathFitInit:29] [time passed:1991.7119]
+removing virginity fitness: 991.00000000 [evaluations:15443] (solBTime:0.0000) [clePathFitEval:934888] [clePathFitInit:30] [time passed:2276.2429]
+removing virginity start fitness: 1062.00000000 [evaluations:15444] (solBTime:0.0000) [clePathFitEval:934888] [clePathFitInit:30] [time passed:2276.2470]
+removing virginity fitness: 1025.00000000 [evaluations:15624] (solBTime:0.0000) [clePathFitEval:985120] [clePathFitInit:32] [time passed:2303.3836]
+removing virginity fitness: 1011.00000000 [evaluations:15803] (solBTime:0.0000) [clePathFitEval:1030102] [clePathFitInit:34] [time passed:2330.0506]
+removing virginity fitness: 1009.00000000 [evaluations:15986] (solBTime:0.0000) [clePathFitEval:1079423] [clePathFitInit:36] [time passed:2357.6710]
+removing virginity fitness: 1008.00000000 [evaluations:16409] (solBTime:0.0000) [clePathFitEval:1129782] [clePathFitInit:38] [time passed:2420.4656]
+removing virginity fitness: 1007.00000000 [evaluations:16588] (solBTime:0.0000) [clePathFitEval:1182644] [clePathFitInit:40] [time passed:2447.2063]
+removing virginity fitness: 1006.00000000 [evaluations:16774] (solBTime:0.0000) [clePathFitEval:1233732] [clePathFitInit:42] [time passed:2474.9880]
+removing virginity fitness: 1002.00000000 [evaluations:17660] (solBTime:0.0000) [clePathFitEval:1282212] [clePathFitInit:44] [time passed:2606.1777]
+removing virginity fitness: 1000.00000000 [evaluations:17967] (solBTime:0.0000) [clePathFitEval:1330466] [clePathFitInit:46] [time passed:2652.2758]
+removing virginity fitness: 997.00000000 [evaluations:18718] (solBTime:0.0000) [clePathFitEval:1382055] [clePathFitInit:48] [time passed:2763.4059]
+removing virginity fitness: 997.00000000 [evaluations:20631] (solBTime:0.0000) [clePathFitEval:1434185] [clePathFitInit:49] [time passed:3044.2496]
+SWITCHING TO FLUENT OPTIMIZATION: Before Fit=0.00100301  CT=997.00000000  AFTER Fit=0.00100301  CT=997.00000000
+removing virginity start fitness: 997.00000000 [evaluations:20634] (solBTime:0.0000) [clePathFitEval:1434185] [clePathFitInit:49] [time passed:3044.6800]
+removing virginity fitness: 991.00000000 [evaluations:21046] (solBTime:0.0000) [clePathFitEval:1483437] [clePathFitInit:51] [time passed:3105.7351]
+removing virginity fitness: 989.00000000 [evaluations:21462] (solBTime:0.0000) [clePathFitEval:1532871] [clePathFitInit:53] [time passed:3167.3421]
+removing virginity fitness: 988.00000000 [evaluations:22455] (solBTime:0.0000) [clePathFitEval:1581305] [clePathFitInit:55] [time passed:3313.7223]
+removing virginity fitness: 987.00000000 [evaluations:23455] (solBTime:0.0000) [clePathFitEval:1630642] [clePathFitInit:57] [time passed:3460.9945]
+removing virginity fitness: 982.00000000 [evaluations:23992] (solBTime:0.0000) [clePathFitEval:1677121] [clePathFitInit:59] [time passed:3540.2651]
+removing virginity fitness: 982.00000000 [evaluations:25936] (solBTime:0.0000) [clePathFitEval:1726143] [clePathFitInit:60] [time passed:3825.7529]
+Generation: 2 ct number: 2 (best fitness: 982.00000000) average: 0.00101371 best - average:0.00000462  [evaluations:26324] (solBTime:0.0000) [clePathFitEval:1822918] [clePathFitInit:64] [time passed:3884.1467]
+ct best fitness increased - reducing CT number to: 2
+SWITCHING TO FLUENT OPTIMIZATION: Before Fit=0.00100908  CT=991.00000000  AFTER Fit=0.00100908  CT=991.00000000
+removing virginity start fitness: 991.00000000 [evaluations:26327] (solBTime:0.0000) [clePathFitEval:1822918] [clePathFitInit:64] [time passed:3884.6060]
+removing virginity fitness: 991.00000000 [evaluations:28264] (solBTime:0.0000) [clePathFitEval:1875352] [clePathFitInit:65] [time passed:4171.6952]
+SWITCHING TO FLUENT OPTIMIZATION: Before Fit=0.00101833  CT=982.00000000  AFTER Fit=0.00101833  CT=982.00000000
+removing virginity start fitness: 982.00000000 [evaluations:28267] (solBTime:0.0000) [clePathFitEval:1875352] [clePathFitInit:65] [time passed:4172.1740]
+removing virginity fitness: 982.00000000 [evaluations:30190] (solBTime:0.0000) [clePathFitEval:1921940] [clePathFitInit:66] [time passed:4454.3304]
+Generation: 3 ct number: 2 (best fitness: 982.00000000) average: 0.00101371 best - average:0.00000462  [evaluations:30578] (solBTime:0.0000) [clePathFitEval:2021479] [clePathFitInit:70] [time passed:4512.5019]
+ct number refresh; number after refresh: 2    patterns number: 5
+SWITCHING TO FLUENT OPTIMIZATION: Before Fit=0.00100908  CT=991.00000000  AFTER Fit=0.00100908  CT=991.00000000
+removing virginity start fitness: 991.00000000 [evaluations:30581] (solBTime:0.0000) [clePathFitEval:2021479] [clePathFitInit:70] [time passed:4512.9656]
+removing virginity fitness: 991.00000000 [evaluations:32495] (solBTime:0.0000) [clePathFitEval:2068544] [clePathFitInit:71] [time passed:4797.0954]
+SWITCHING TO FLUENT OPTIMIZATION: Before Fit=0.00101833  CT=982.00000000  AFTER Fit=0.00101833  CT=982.00000000
+removing virginity start fitness: 982.00000000 [evaluations:32498] (solBTime:0.0000) [clePathFitEval:2068544] [clePathFitInit:71] [time passed:4797.5359]
+removing virginity fitness: 982.00000000 [evaluations:34423] (solBTime:0.0000) [clePathFitEval:2118992] [clePathFitInit:72] [time passed:5080.1962]
+removing virginity start fitness: 1071.00000000 [evaluations:34424] (solBTime:0.0000) [clePathFitEval:2118992] [clePathFitInit:72] [time passed:5080.1999]
+removing virginity fitness: 1029.00000000 [evaluations:34615] (solBTime:0.0000) [clePathFitEval:2170986] [clePathFitInit:74] [time passed:5108.3141]
+removing virginity fitness: 1020.00000000 [evaluations:34806] (solBTime:0.0000) [clePathFitEval:2224127] [clePathFitInit:76] [time passed:5137.2363]
+removing virginity fitness: 1016.00000000 [evaluations:35094] (solBTime:0.0000) [clePathFitEval:2277687] [clePathFitInit:78] [time passed:5180.4968]
+removing virginity fitness: 1010.00000000 [evaluations:35281] (solBTime:0.0000) [clePathFitEval:2327071] [clePathFitInit:80] [time passed:5208.3528]
+removing virginity fitness: 1009.00000000 [evaluations:35472] (solBTime:0.0000) [clePathFitEval:2374941] [clePathFitInit:82] [time passed:5236.7367]
+removing virginity fitness: 1007.00000000 [evaluations:35889] (solBTime:0.0000) [clePathFitEval:2426756] [clePathFitInit:84] [time passed:5298.3346]
+removing virginity fitness: 999.00000000 [evaluations:36075] (solBTime:0.0000) [clePathFitEval:2482446] [clePathFitInit:86] [time passed:5326.2893]
+removing virginity fitness: 995.00000000 [evaluations:37766] (solBTime:0.0000) [clePathFitEval:2530083] [clePathFitInit:88] [time passed:5575.4560]
+removing virginity fitness: 994.00000000 [evaluations:38541] (solBTime:0.0000) [clePathFitEval:2582178] [clePathFitInit:90] [time passed:5689.6040]
+removing virginity fitness: 994.00000000 [evaluations:40464] (solBTime:0.0000) [clePathFitEval:2629753] [clePathFitInit:91] [time passed:5972.8526]
+SWITCHING TO FLUENT OPTIMIZATION: Before Fit=0.00100604  CT=994.00000000  AFTER Fit=0.00100604  CT=994.00000000
+removing virginity start fitness: 994.00000000 [evaluations:40467] (solBTime:0.0000) [clePathFitEval:2629753] [clePathFitInit:91] [time passed:5973.2958]
+removing virginity fitness: 994.00000000 [evaluations:42412] (solBTime:0.0000) [clePathFitEval:2679285] [clePathFitInit:92] [time passed:6261.0405]
+Generation: 4 ct number: 3 (best fitness: 982.00000000) average: 0.00101115 best - average:0.00000718  [evaluations:42996] (solBTime:0.0000) [clePathFitEval:2827635] [clePathFitInit:98] [time passed:6349.0223]
+SWITCHING TO FLUENT OPTIMIZATION: Before Fit=0.00100908  CT=991.00000000  AFTER Fit=0.00100908  CT=991.00000000
+removing virginity start fitness: 991.00000000 [evaluations:42999] (solBTime:0.0000) [clePathFitEval:2827635] [clePathFitInit:98] [time passed:6349.4783]
+removing virginity fitness: 991.00000000 [evaluations:44899] (solBTime:0.0000) [clePathFitEval:2876855] [clePathFitInit:99] [time passed:6631.8594]
+SWITCHING TO FLUENT OPTIMIZATION: Before Fit=0.00101833  CT=982.00000000  AFTER Fit=0.00101833  CT=982.00000000
+removing virginity start fitness: 982.00000000 [evaluations:44902] (solBTime:0.0000) [clePathFitEval:2876855] [clePathFitInit:99] [time passed:6632.3001]
+removing virginity fitness: 982.00000000 [evaluations:46831] (solBTime:0.0000) [clePathFitEval:2929585] [clePathFitInit:100] [time passed:6915.3461]
+SWITCHING TO FLUENT OPTIMIZATION: Before Fit=0.00100604  CT=994.00000000  AFTER Fit=0.00100604  CT=994.00000000
+removing virginity start fitness: 994.00000000 [evaluations:46834] (solBTime:0.0000) [clePathFitEval:2929585] [clePathFitInit:100] [time passed:6915.7917]
+removing virginity fitness: 994.00000000 [evaluations:48767] (solBTime:0.0000) [clePathFitEval:2977581] [clePathFitInit:101] [time passed:7201.2364]
+Generation: 5 ct number: 3 (best fitness: 982.00000000) average: 0.00101115 best - average:0.00000718  [evaluations:49348] (solBTime:0.0000) [clePathFitEval:3130012] [clePathFitInit:107] [time passed:7289.0549]
+ct number refresh; number after refresh: 3    patterns number: 11
+SWITCHING TO FLUENT OPTIMIZATION: Before Fit=0.00100908  CT=991.00000000  AFTER Fit=0.00100908  CT=991.00000000
+removing virginity start fitness: 991.00000000 [evaluations:49351] (solBTime:0.0000) [clePathFitEval:3130012] [clePathFitInit:107] [time passed:7289.5189]
+removing virginity fitness: 991.00000000 [evaluations:51264] (solBTime:0.0000) [clePathFitEval:3186806] [clePathFitInit:108] [time passed:7572.9680]
+SWITCHING TO FLUENT OPTIMIZATION: Before Fit=0.00101833  CT=982.00000000  AFTER Fit=0.00101833  CT=982.00000000
+removing virginity start fitness: 982.00000000 [evaluations:51267] (solBTime:0.0000) [clePathFitEval:3186806] [clePathFitInit:108] [time passed:7573.4088]
+removing virginity fitness: 982.00000000 [evaluations:53200] (solBTime:0.0000) [clePathFitEval:3235926] [clePathFitInit:109] [time passed:7856.6690]
+SWITCHING TO FLUENT OPTIMIZATION: Before Fit=0.00100604  CT=994.00000000  AFTER Fit=0.00100604  CT=994.00000000
+removing virginity start fitness: 994.00000000 [evaluations:53203] (solBTime:0.0000) [clePathFitEval:3235926] [clePathFitInit:109] [time passed:7857.1147]
+removing virginity fitness: 993.00000000 [evaluations:53966] (solBTime:0.0000) [clePathFitEval:3288527] [clePathFitInit:111] [time passed:7969.9706]
+removing virginity fitness: 993.00000000 [evaluations:55867] (solBTime:0.0000) [clePathFitEval:3332329] [clePathFitInit:112] [time passed:8251.5644]
+removing virginity start fitness: 1045.00000000 [evaluations:55868] (solBTime:0.0000) [clePathFitEval:3332329] [clePathFitInit:112] [time passed:8251.5683]
+removing virginity fitness: 1020.00000000 [evaluations:56059] (solBTime:0.0000) [clePathFitEval:3383716] [clePathFitInit:114] [time passed:8279.8583]
+removing virginity fitness: 1018.00000000 [evaluations:56354] (solBTime:0.0000) [clePathFitEval:3430314] [clePathFitInit:116] [time passed:8324.1216]
+removing virginity fitness: 1014.00000000 [evaluations:56656] (solBTime:0.0000) [clePathFitEval:3479867] [clePathFitInit:118] [time passed:8369.0138]
+removing virginity fitness: 1009.00000000 [evaluations:56842] (solBTime:0.0000) [clePathFitEval:3529359] [clePathFitInit:120] [time passed:8396.8606]
+removing virginity fitness: 1006.00000000 [evaluations:57025] (solBTime:0.0000) [clePathFitEval:3580265] [clePathFitInit:122] [time passed:8424.2052]
+removing virginity fitness: 1003.00000000 [evaluations:57207] (solBTime:0.0000) [clePathFitEval:3631887] [clePathFitInit:124] [time passed:8451.5594]
+removing virginity fitness: 1002.00000000 [evaluations:57391] (solBTime:0.0000) [clePathFitEval:3673891] [clePathFitInit:126] [time passed:8479.0415]
+removing virginity fitness: 998.00000000 [evaluations:57568] (solBTime:0.0000) [clePathFitEval:3721899] [clePathFitInit:128] [time passed:8505.3782]
+removing virginity fitness: 992.00000000 [evaluations:58206] (solBTime:0.0000) [clePathFitEval:3767265] [clePathFitInit:130] [time passed:8599.5485]
+removing virginity fitness: 991.00000000 [evaluations:58988] (solBTime:0.0000) [clePathFitEval:3817622] [clePathFitInit:132] [time passed:8714.7339]
+removing virginity fitness: 991.00000000 [evaluations:60901] (solBTime:0.0000) [clePathFitEval:3869365] [clePathFitInit:133] [time passed:8995.8510]
+SWITCHING TO FLUENT OPTIMIZATION: Before Fit=0.00100908  CT=991.00000000  AFTER Fit=0.00100908  CT=991.00000000
+removing virginity start fitness: 991.00000000 [evaluations:60904] (solBTime:0.0000) [clePathFitEval:3869365] [clePathFitInit:133] [time passed:8996.2919]
+removing virginity fitness: 990.00000000 [evaluations:61089] (solBTime:0.0000) [clePathFitEval:3920413] [clePathFitInit:135] [time passed:9023.7389]
+removing virginity fitness: 986.00000000 [evaluations:61388] (solBTime:0.0000) [clePathFitEval:3975240] [clePathFitInit:137] [time passed:9068.0380]
+removing virginity fitness: 986.00000000 [evaluations:63316] (solBTime:0.0000) [clePathFitEval:4022382] [clePathFitInit:138] [time passed:9347.9341]
+Generation: 6 ct number: 4 (best fitness: 982.00000000) average: 0.00101216 best - average:0.00000616  [evaluations:64101] (solBTime:0.0000) [clePathFitEval:4225140] [clePathFitInit:146] [time passed:9466.5236]
+SWITCHING TO FLUENT OPTIMIZATION: Before Fit=0.00100908  CT=991.00000000  AFTER Fit=0.00100908  CT=991.00000000
+removing virginity start fitness: 991.00000000 [evaluations:64104] (solBTime:0.0000) [clePathFitEval:4225140] [clePathFitInit:146] [time passed:9467.0331]
+removing virginity fitness: 991.00000000 [evaluations:66062] (solBTime:0.0000) [clePathFitEval:4277166] [clePathFitInit:147] [time passed:9757.6945]
+SWITCHING TO FLUENT OPTIMIZATION: Before Fit=0.00101833  CT=982.00000000  AFTER Fit=0.00101833  CT=982.00000000
+removing virginity start fitness: 982.00000000 [evaluations:66065] (solBTime:0.0000) [clePathFitEval:4277166] [clePathFitInit:147] [time passed:9758.1362]
+removing virginity fitness: 982.00000000 [evaluations:67950] (solBTime:0.0000) [clePathFitEval:4331028] [clePathFitInit:148] [time passed:10034.6033]
+SWITCHING TO FLUENT OPTIMIZATION: Before Fit=0.00100705  CT=993.00000000  AFTER Fit=0.00100705  CT=993.00000000
+removing virginity start fitness: 993.00000000 [evaluations:67953] (solBTime:0.0000) [clePathFitEval:4331028] [clePathFitInit:148] [time passed:10035.0487]
+removing virginity fitness: 992.00000000 [evaluations:69523] (solBTime:0.0000) [clePathFitEval:4376818] [clePathFitInit:150] [time passed:10266.5964]
+removing virginity fitness: 992.00000000 [evaluations:71423] (solBTime:0.0000) [clePathFitEval:4425889] [clePathFitInit:151] [time passed:10546.6474]
+SWITCHING TO FLUENT OPTIMIZATION: Before Fit=0.00101420  CT=986.00000000  AFTER Fit=0.00101420  CT=986.00000000
+removing virginity start fitness: 986.00000000 [evaluations:71426] (solBTime:0.0000) [clePathFitEval:4425889] [clePathFitInit:151] [time passed:10547.0889]
+removing virginity fitness: 986.00000000 [evaluations:73365] (solBTime:0.0000) [clePathFitEval:4478048] [clePathFitInit:152] [time passed:10828.8355]
+Generation: 7 ct number: 4 (best fitness: 982.00000000) average: 0.00101242 best - average:0.00000591  [evaluations:74139] (solBTime:0.0000) [clePathFitEval:4684702] [clePathFitInit:160] [time passed:10945.3525]

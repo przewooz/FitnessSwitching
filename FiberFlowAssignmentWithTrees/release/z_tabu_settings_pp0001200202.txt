@@ -1,0 +1,33 @@
+.\tabu_settings_pp0001200202.txt\\file name
+.\test_summarize_2_10.txt\\summarize
+.\pl_5t\pp.net\\net
+.\pl_5t\20.rep\\replic
+.\pl_5t\00.dem\\unicast
+\\anycast
+\\multicast
+.\pl_5t\01.dea\\anycast1dir
+50\\transfer multiplier
+.\pl_5t\pp30_p.pat\\paths
+.\pl_5t\pp30_b.pat\\paths_backup
+.\pl_5t\p_p.spec\\unispec
+.\pl_5t\p_b.spec\\unispec_backup
+\\unireg
+\\trees
+\\treespec
+\\treereg
+02\\paths to use
+0\\trees to use
+02\\cores
+\\modulation
+\\solution
+HighestSlot\\fit func
+tabu\\algorithm
+30\\max time
+3600\\switch time
+8889999\\probing time
+1\\Solution constructon (0-normal; 1-fluent optimization)
+0.05000000\\ProRep
+0.05000000\\ProPath
+2.00000000\\TabuListLimitPercent
+0.50000000\\NoImprovementLimitPercent
+0.60000000\\WorseningFactor

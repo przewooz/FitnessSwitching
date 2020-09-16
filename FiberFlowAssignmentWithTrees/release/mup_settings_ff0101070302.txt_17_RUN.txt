@@ -1,0 +1,19 @@
+Initializing...
+Initting...1
+SWITCHING TO SIMPLE:
+POPULATION 0: Before Fit=-1.00000000  CT=-1.00000000  AFTER Fit=0.00094251  CT=1061.00000000
+Initting...2
+Started..
+removing virginity start fitness: 1061.00000000 [evaluations:1] (solBTime:0.0000) [clePathFitEval:0] [clePathFitInit:0] [time passed:0.0000]
+removing virginity fitness: 1026.00000000 [evaluations:187] (solBTime:0.0000) [clePathFitEval:52845] [clePathFitInit:2] [full>simple:0] [time passed:24.9394]
+removing virginity fitness: 1017.00000000 [evaluations:380] (solBTime:0.0000) [clePathFitEval:102973] [clePathFitInit:4] [full>simple:0] [time passed:50.8646]
+Generation: 0 ct number: 1 (best fitness: 1017.00000000) average: 0.00098328 best - average:0.00000000  [evaluations:381] (solBTime:0.0000) [clePathFitEval:148850] [clePathFitInit:5] [full>simple:0] [time passed:51.2031]
+Generation: 1 ct number: 1 (best fitness: 1017.00000000) average: 0.00098328 best - average:0.00000000  [evaluations:382] (solBTime:0.0000) [clePathFitEval:195871] [clePathFitInit:6] [full>simple:0] [time passed:51.4260]
+ct number refresh; number after refresh: 1    patterns number: 1
+SWITCHING TO FULL:
+POPULATION 0: Before Fit=0.00098328  CT=1017.00000000  AFTER Fit=0.00098328  CT=1017.00000000
+POPULATION 1: Before Fit=-1.00000000  CT=-1.00000000  AFTER Fit=0.00094162  CT=1062.00000000
+removing virginity start fitness: 1062.00000000 [evaluations:386] (solBTime:0.0000) [clePathFitEval:195871] [clePathFitInit:6] [time passed:0.0000]
+removing virginity fitness: 1035.00000000 [evaluations:579] (solBTime:0.0000) [clePathFitEval:244700] [clePathFitInit:8] [full>simple:0] [time passed:78.2279]
+removing virginity fitness: 1027.00000000 [evaluations:771] (solBTime:0.0000) [clePathFitEval:295640] [clePathFitInit:10] [full>simple:0] [time passed:104.8302]
+Generation: 2 ct number: 2 (best fitness: 1017.00000000) average: 0.00098088 best - average:0.00000241  [evaluations:1158] (solBTime:0.0000) [clePathFitEval:392128] [clePathFitInit:14] [full>simple:0] [time passed:158.5735]

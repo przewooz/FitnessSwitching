@@ -1,0 +1,18 @@
+Initializing...
+Initting...1
+SWITCHING TO SIMPLE:
+POPULATION 0: Before Fit=-1.00000000  CT=-1.00000000  AFTER Fit=0.00097466  CT=1026.00000000
+Initting...2
+Started..
+removing virginity start fitness: 1026.00000000 [evaluations:1] (solBTime:0.0000) [clePathFitEval:0] [clePathFitInit:0] [time passed:0.0000]
+removing virginity fitness: 1011.00000000 [evaluations:194] (solBTime:0.0000) [clePathFitEval:51643] [clePathFitInit:2] [full>simple:0] [time passed:24.0879]
+removing virginity fitness: 1002.00000000 [evaluations:612] (solBTime:0.0000) [clePathFitEval:102251] [clePathFitInit:4] [full>simple:0] [time passed:76.2708]
+Generation: 0 ct number: 1 (best fitness: 1002.00000000) average: 0.00099800 best - average:0.00000000  [evaluations:613] (solBTime:0.0000) [clePathFitEval:154944] [clePathFitInit:5] [full>simple:0] [time passed:76.6058]
+Generation: 1 ct number: 1 (best fitness: 1002.00000000) average: 0.00099800 best - average:0.00000000  [evaluations:614] (solBTime:0.0000) [clePathFitEval:207433] [clePathFitInit:6] [full>simple:0] [time passed:76.8157]
+ct number refresh; number after refresh: 1    patterns number: 1
+SWITCHING TO FULL:
+POPULATION 0: Before Fit=0.00099800  CT=1002.00000000  AFTER Fit=0.00099800  CT=1002.00000000
+POPULATION 1: Before Fit=-1.00000000  CT=-1.00000000  AFTER Fit=0.00092937  CT=1076.00000000
+removing virginity start fitness: 1076.00000000 [evaluations:618] (solBTime:0.0000) [clePathFitEval:207433] [clePathFitInit:6] [time passed:0.0000]
+removing virginity fitness: 1045.00000000 [evaluations:808] (solBTime:0.0000) [clePathFitEval:260543] [clePathFitInit:8] [full>simple:0] [time passed:101.2035]
+Generation: 2 ct number: 2 (best fitness: 1002.00000000) average: 0.00097839 best - average:0.00001962  [evaluations:1122] (solBTime:0.0000) [clePathFitEval:365994] [clePathFitInit:11] [full>simple:0] [time passed:141.2409]

@@ -1,0 +1,517 @@
+3\\minimal pattern length
+16\\virus generations
+100\\virus population
+0.120000\\virus prob cut
+0.150000\\virus prob splice
+0.050000\\virus prob mutation
+0.050000\\virus prob rem gene
+0.050000\\virus prob add gene
+
+
+
+
+
+Generation: 0 
+
+
+FITNESS EVALUATIONS: 1941  	  time passed:0.6343 
+
+
+
+
+
+
+Generation: 1 
+
+
+FITNESS EVALUATIONS: 1942  	  time passed:0.6394 
+
+
+
+
+
+
+Generation: 2 
+
+
+FITNESS EVALUATIONS: 4045  	  time passed:1.3149 
+
+
+
+
+
+
+Generation: 3 
+
+
+FITNESS EVALUATIONS: 5946  	  time passed:1.9080 
+
+
+
+
+
+
+Generation: 4 
+
+
+FITNESS EVALUATIONS: 8618  	  time passed:2.7627 
+
+
+
+
+
+
+Generation: 5 
+
+
+FITNESS EVALUATIONS: 11025  	  time passed:3.5224 
+
+
+
+
+
+
+Generation: 6 
+
+
+FITNESS EVALUATIONS: 13301  	  time passed:4.2335 
+
+
+
+
+
+
+Generation: 7 
+
+
+FITNESS EVALUATIONS: 13500  	  time passed:4.3084 
+
+
+
+
+
+
+Generation: 8 
+
+
+FITNESS EVALUATIONS: 15399  	  time passed:4.8943 
+
+
+
+
+
+
+Generation: 9 
+
+
+FITNESS EVALUATIONS: 18519  	  time passed:5.9306 
+
+
+
+
+
+
+Generation: 10 
+
+
+FITNESS EVALUATIONS: 24456  	  time passed:7.8102 
+
+
+
+
+
+
+Generation: 11 
+
+
+FITNESS EVALUATIONS: 28282  	  time passed:9.0320 
+
+
+
+
+
+
+Generation: 12 
+
+
+FITNESS EVALUATIONS: 36497  	  time passed:11.6442 
+
+
+
+
+
+
+Generation: 13 
+
+
+FITNESS EVALUATIONS: 44371  	  time passed:14.2009 
+
+
+
+
+
+
+Generation: 14 
+
+
+FITNESS EVALUATIONS: 51040  	  time passed:16.4662 
+
+
+
+
+
+
+Generation: 15 
+
+
+FITNESS EVALUATIONS: 59072  	  time passed:19.0518 
+
+
+
+
+
+
+Generation: 16 
+
+
+FITNESS EVALUATIONS: 70560  	  time passed:22.7549 
+
+
+
+
+
+
+Generation: 17 
+
+
+FITNESS EVALUATIONS: 79290  	  time passed:25.6301 
+
+
+
+
+
+
+Generation: 18 
+
+
+FITNESS EVALUATIONS: 89394  	  time passed:28.8822 
+
+
+
+
+
+
+Generation: 19 
+
+
+FITNESS EVALUATIONS: 102779  	  time passed:33.1474 
+
+
+
+
+
+
+Generation: 20 
+
+
+FITNESS EVALUATIONS: 116544  	  time passed:37.5828 
+
+
+
+
+
+
+Generation: 21 
+
+
+FITNESS EVALUATIONS: 128831  	  time passed:41.5178 
+
+
+
+
+
+
+Generation: 22 
+
+
+FITNESS EVALUATIONS: 144097  	  time passed:46.4017 
+
+
+
+
+
+
+Generation: 23 
+
+
+FITNESS EVALUATIONS: 154340  	  time passed:49.6895 
+
+
+
+
+
+
+Generation: 24 
+
+
+FITNESS EVALUATIONS: 164904  	  time passed:53.1589 
+
+
+
+
+
+
+Generation: 25 
+
+
+FITNESS EVALUATIONS: 177339  	  time passed:57.2764 
+
+
+
+
+
+
+Generation: 26 
+
+
+FITNESS EVALUATIONS: 192675  	  time passed:62.2205 
+
+
+
+
+
+
+Generation: 27 
+
+
+FITNESS EVALUATIONS: 204857  	  time passed:66.1621 
+
+
+
+
+
+
+Generation: 28 
+
+
+FITNESS EVALUATIONS: 220788  	  time passed:71.2814 
+
+
+
+
+
+
+Generation: 29 
+
+
+FITNESS EVALUATIONS: 237970  	  time passed:76.7623 
+
+
+
+
+
+
+Generation: 30 
+
+
+FITNESS EVALUATIONS: 252167  	  time passed:81.2842 
+
+
+
+
+
+
+Generation: 31 
+
+
+FITNESS EVALUATIONS: 266348  	  time passed:85.8473 
+
+
+
+
+
+
+Generation: 32 
+
+
+FITNESS EVALUATIONS: 280286  	  time passed:90.3552 
+
+
+
+
+
+
+Generation: 33 
+
+
+FITNESS EVALUATIONS: 290866  	  time passed:93.7898 
+
+
+
+
+
+
+Generation: 34 
+
+
+FITNESS EVALUATIONS: 305463  	  time passed:98.4934 
+
+
+
+
+
+
+Generation: 35 
+
+
+FITNESS EVALUATIONS: 319172  	  time passed:102.8565 
+
+
+
+
+
+
+Generation: 36 
+
+
+FITNESS EVALUATIONS: 333706  	  time passed:107.5358 
+
+
+
+
+
+
+Generation: 37 
+
+
+FITNESS EVALUATIONS: 352793  	  time passed:113.6460 
+
+
+
+
+
+
+Generation: 38 
+
+
+FITNESS EVALUATIONS: 372305  	  time passed:119.9196 
+
+
+
+
+
+
+Generation: 39 
+
+
+FITNESS EVALUATIONS: 390062  	  time passed:125.6569 
+
+
+
+
+
+
+Generation: 40 
+
+
+FITNESS EVALUATIONS: 411077  	  time passed:132.3890 
+
+
+
+
+
+
+Generation: 41 
+
+
+FITNESS EVALUATIONS: 430877  	  time passed:138.8149 
+
+
+
+
+
+
+Generation: 42 
+
+
+FITNESS EVALUATIONS: 452004  	  time passed:145.5964 
+
+
+
+
+
+
+Generation: 43 
+
+
+FITNESS EVALUATIONS: 473807  	  time passed:152.6480 
+
+
+
+
+
+
+Generation: 44 
+
+
+FITNESS EVALUATIONS: 493695  	  time passed:159.0567 
+
+
+
+
+
+
+Generation: 45 
+
+
+FITNESS EVALUATIONS: 517579  	  time passed:166.7466 
+
+
+
+
+
+
+Generation: 46 
+
+
+FITNESS EVALUATIONS: 542399  	  time passed:174.6327 
+
+
+
+
+
+
+Generation: 47 
+
+
+FITNESS EVALUATIONS: 564217  	  time passed:181.6444 
+
+
+
+
+
+
+Generation: 48 
+
+
+FITNESS EVALUATIONS: 580391  	  time passed:186.9038 
+
+
+
+
+
+
+Generation: 49 
+
+
+FITNESS EVALUATIONS: 590662  	  time passed:190.2289 
+
+
+
+
+
+
+Generation: 50 
+
+
+FITNESS EVALUATIONS: 602721  	  time pass

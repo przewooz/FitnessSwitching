@@ -1,0 +1,23 @@
+In parameters read: z_rs_settings_ff050005f10201b048_6.txt
+Initializing...
+Initting...1
+Initting...2
+Started..
+Started at: 0.00281690   fiber fitness:355.00000000
+
+Generation: 0 new best fitness: 0.00288184  fiber best fitness: 347.00000000   [fitness evaluations:2] [time passed:0.2075]
+Generation: 1 new best fitness: 0.00289855  fiber best fitness: 345.00000000   [fitness evaluations:3] [time passed:0.3831]
+Generation: 2 new best fitness: 0.00303951  fiber best fitness: 329.00000000   [fitness evaluations:4] [time passed:0.5845]
+Generation: 3 new best fitness: 0.00311526  fiber best fitness: 321.00000000   [fitness evaluations:5] [time passed:0.7916]
+Generation: 17 new best fitness: 0.00313480  fiber best fitness: 319.00000000   [fitness evaluations:19] [time passed:3.6593]
+Generation: 30 new best fitness: 0.00317460  fiber best fitness: 315.00000000   [fitness evaluations:32] [time passed:6.0033]
+Generation: 43 new best fitness: 0.00323625  fiber best fitness: 309.00000000   [fitness evaluations:45] [time passed:8.1738]
+Generation: 45 new best fitness: 0.00330033  fiber best fitness: 303.00000000   [fitness evaluations:47] [time passed:8.6089]
+Generation: 518 new best fitness: 0.00332226  fiber best fitness: 301.00000000   [fitness evaluations:520] [time passed:98.9051]
+Generation: 841 new best fitness: 0.00334448  fiber best fitness: 299.00000000   [fitness evaluations:843] [time passed:160.8668]
+Generation: 1369 new best fitness: 0.00336700  fiber best fitness: 297.00000000   [fitness evaluations:1371] [time passed:259.3435]
+Generation: 2297 new best fitness: 0.00338983  fiber best fitness: 295.00000000   [fitness evaluations:2299] [time passed:433.4832]
+Generation: 3452 new best fitness: 0.00341297  fiber best fitness: 293.00000000   [fitness evaluations:3454] [time passed:646.3669]
+Generation: 9802 new best fitness: 0.00343643  fiber best fitness: 291.00000000   [fitness evaluations:9804] [time passed:1833.0406]
+Generation: 22722 new best fitness: 0.00346021  fiber best fitness: 289.00000000   [fitness evaluations:22724] [time passed:4235.7325]
+Generation: 28509 new best fitness: 0.00353357  fiber best fitness: 283.00000000   [fitness evaluations:28511] [time passed:5307.4456]

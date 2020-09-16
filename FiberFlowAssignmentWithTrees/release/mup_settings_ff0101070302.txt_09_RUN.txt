@@ -1,0 +1,19 @@
+Initializing...
+Initting...1
+SWITCHING TO SIMPLE:
+POPULATION 0: Before Fit=1.#INF0000  CT=0.00000000  AFTER Fit=0.00094787  CT=1055.00000000
+Initting...2
+Started..
+removing virginity start fitness: 1055.00000000 [evaluations:2] (solBTime:0.0000) [clePathFitEval:0] [clePathFitInit:0] [time passed:0.0000]
+removing virginity fitness: 1018.00000000 [evaluations:201] (solBTime:0.0000) [clePathFitEval:55883] [clePathFitInit:2] [full>simple:0] [time passed:24.9277]
+removing virginity fitness: 1013.00000000 [evaluations:381] (solBTime:0.0000) [clePathFitEval:106815] [clePathFitInit:4] [full>simple:0] [time passed:47.6305]
+Generation: 0 ct number: 1 (best fitness: 1013.00000000) average: 0.00098717 best - average:0.00000000  [evaluations:382] (solBTime:0.0000) [clePathFitEval:158033] [clePathFitInit:5] [full>simple:0] [time passed:47.9551]
+Generation: 1 ct number: 1 (best fitness: 1013.00000000) average: 0.00098717 best - average:0.00000000  [evaluations:383] (solBTime:0.0000) [clePathFitEval:209954] [clePathFitInit:6] [full>simple:0] [time passed:48.1529]
+ct number refresh; number after refresh: 1    patterns number: 1
+SWITCHING TO FULL:
+POPULATION 0: Before Fit=0.00098717  CT=1013.00000000  AFTER Fit=0.00098717  CT=1013.00000000
+POPULATION 1: Before Fit=0.00098717  CT=1013.00000000  AFTER Fit=0.00094607  CT=1057.00000000
+removing virginity start fitness: 1057.00000000 [evaluations:388] (solBTime:0.0000) [clePathFitEval:209954] [clePathFitInit:6] [time passed:0.0000]
+removing virginity fitness: 1034.00000000 [evaluations:583] (solBTime:0.0000) [clePathFitEval:259371] [clePathFitInit:8] [full>simple:0] [time passed:72.7215]
+removing virginity fitness: 1024.00000000 [evaluations:779] (solBTime:0.0000) [clePathFitEval:312554] [clePathFitInit:10] [full>simple:0] [time passed:97.1875]
+Generation: 2 ct number: 2 (best fitness: 1013.00000000) average: 0.00098186 best - average:0.00000530  [evaluations:1163] (solBTime:0.0000) [clePathFitEval:418535] [clePathFitInit:14] [full>simple:0] [time passed:145.7825]

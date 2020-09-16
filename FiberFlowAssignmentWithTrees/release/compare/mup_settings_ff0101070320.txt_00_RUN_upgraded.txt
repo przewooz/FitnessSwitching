@@ -1,0 +1,20 @@
+In parameters read: z_mup_settings_ff0101070320.txt
+Initializing...
+Initting...1
+Initting...2
+Started..
+removing virginity start fitness: 1013.00000000 [evaluations:1] (solBTime:0.0000) [clePathFitEval:0] [clePathFitInit:0] [time passed:0.0002]
+removing virginity fitness: 972.00000000 [evaluations:194] (solBTime:0.0000) [clePathFitEval:50741] [clePathFitInit:2] [time passed:318.6465]
+removing virginity fitness: 969.00000000 [evaluations:376] (solBTime:0.0000) [clePathFitEval:107290] [clePathFitInit:4] [time passed:618.4423]
+removing virginity fitness: 956.00000000 [evaluations:571] (solBTime:0.0000) [clePathFitEval:164160] [clePathFitInit:6] [time passed:935.4459]
+removing virginity fitness: 955.00000000 [evaluations:1677] (solBTime:0.0000) [clePathFitEval:213311] [clePathFitInit:8] [time passed:2692.3358]
+removing virginity fitness: 951.00000000 [evaluations:2789] (solBTime:0.0000) [clePathFitEval:264093] [clePathFitInit:10] [time passed:4459.2937]
+removing virginity fitness: 951.00000000 [evaluations:4701] (solBTime:0.0000) [clePathFitEval:311057] [clePathFitInit:11] [time passed:7485.3118]
+SWITCHING TO FLUENT OPTIMIZATION: Before Fit=0.00105152  CT=951.00000000  AFTER Fit=0.00105152  CT=951.00000000
+removing virginity start fitness: 951.00000000 [evaluations:4704] (solBTime:0.0000) [clePathFitEval:311057] [clePathFitInit:11] [time passed:7489.9817]
+removing virginity fitness: 951.00000000 [evaluations:6620] (solBTime:0.0000) [clePathFitEval:365599] [clePathFitInit:12] [time passed:10631.1947]
+Generation: 0 ct number: 1 (best fitness: 951.00000000) average: 0.00105152 best - average:0.00000000  [evaluations:6621] (solBTime:0.0000) [clePathFitEval:417208] [clePathFitInit:13] [time passed:10632.9627]
+SWITCHING TO FLUENT OPTIMIZATION: Before Fit=0.00105152  CT=951.00000000  AFTER Fit=0.00105152  CT=951.00000000
+removing virginity start fitness: 951.00000000 [evaluations:6624] (solBTime:0.0000) [clePathFitEval:417208] [clePathFitInit:13] [time passed:10637.5600]
+removing virginity fitness: 951.00000000 [evaluations:8545] (solBTime:0.0000) [clePathFitEval:469681] [clePathFitInit:14] [time passed:13789.0468]
+Generation: 1 ct number: 1 (best fitness: 951.00000000) average: 0.00105152 best - average:0.00000000  [evaluations:8546] (solBTime:0.0000) [clePathFitEval:516172] [clePathFitInit:15] [time passed:13790.8040]

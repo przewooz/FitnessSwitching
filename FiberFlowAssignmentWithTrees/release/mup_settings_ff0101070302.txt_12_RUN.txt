@@ -1,0 +1,10 @@
+Initializing...
+Initting...1
+SWITCHING TO SIMPLE:
+POPULATION 0: Before Fit=1.#INF0000  CT=0.00000000  AFTER Fit=0.00094697  CT=1056.00000000
+Initting...2
+Started..
+removing virginity start fitness: 1056.00000000 [evaluations:2] (solBTime:0.0000) [clePathFitEval:0] [clePathFitInit:0] [time passed:0.0000]
+removing virginity fitness: 1020.00000000 [evaluations:203] (solBTime:0.0000) [clePathFitEval:52688] [clePathFitInit:2] [full>simple:0] [time passed:40.9983]
+removing virginity fitness: 1016.00000000 [evaluations:499] (solBTime:0.0000) [clePathFitEval:104255] [clePathFitInit:4] [full>simple:0] [time passed:104.5771]
+Generation: 0 ct number: 1 (best fitness: 1016.00000000) average: 0.00098425 best - average:0.00000000  [evaluations:500] (solBTime:0.0000) [clePathFitEval:156587] [clePathFitInit:5] [full>simple:0] [time passed:105.0625]

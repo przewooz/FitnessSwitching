@@ -1,0 +1,8 @@
+Initializing...
+Initting...1
+Initting...2
+Started..
+removing virginity start fitness: 487.00000000 [evaluations:1] (solBTime:0.0000) [clePathFitEval:0] [clePathFitInit:0] [time passed:0.0002]
+removing virginity fitness: 449.00000000 [evaluations:193] (solBTime:0.0000) [clePathFitEval:46437] [clePathFitInit:2] [time passed:17.6436]
+removing virginity fitness: 449.00000000 [evaluations:376] (solBTime:0.0000) [clePathFitEval:92635] [clePathFitInit:3] [time passed:35.2326]
+Generation: 0 ct number: 1 (best fitness: 449.00000000) average: 0.00222717 best - average:0.00000000  [evaluations:377] (solBTime:0.0000) [clePathFitEval:141440] [clePathFitInit:4] [time passed:35.4024]

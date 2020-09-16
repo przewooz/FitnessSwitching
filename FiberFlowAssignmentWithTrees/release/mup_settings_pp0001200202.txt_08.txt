@@ -1,0 +1,289 @@
+3\\minimal pattern length
+16\\virus generations
+100\\virus population
+0.120000\\virus prob cut
+0.150000\\virus prob splice
+0.050000\\virus prob mutation
+0.050000\\virus prob rem gene
+0.050000\\virus prob add gene
+
+
+
+
+
+Generation: 0 
+
+
+FITNESS EVALUATIONS: 1941  	  time passed:0.6447 
+
+
+
+
+
+
+Generation: 1 
+
+
+FITNESS EVALUATIONS: 1942  	  time passed:0.6496 
+
+
+
+
+
+
+Generation: 2 
+
+
+FITNESS EVALUATIONS: 4045  	  time passed:1.3109 
+
+
+
+
+
+
+Generation: 3 
+
+
+FITNESS EVALUATIONS: 5946  	  time passed:1.9120 
+
+
+
+
+
+
+Generation: 4 
+
+
+FITNESS EVALUATIONS: 8618  	  time passed:2.7656 
+
+
+
+
+
+
+Generation: 5 
+
+
+FITNESS EVALUATIONS: 11025  	  time passed:3.5382 
+
+
+
+
+
+
+Generation: 6 
+
+
+FITNESS EVALUATIONS: 13301  	  time passed:4.2525 
+
+
+
+
+
+
+Generation: 7 
+
+
+FITNESS EVALUATIONS: 13500  	  time passed:4.3232 
+
+
+
+
+
+
+Generation: 8 
+
+
+FITNESS EVALUATIONS: 15399  	  time passed:4.9192 
+
+
+
+
+
+
+Generation: 9 
+
+
+FITNESS EVALUATIONS: 18519  	  time passed:5.9229 
+
+
+
+
+
+
+Generation: 10 
+
+
+FITNESS EVALUATIONS: 24456  	  time passed:7.8292 
+
+
+
+
+
+
+Generation: 11 
+
+
+FITNESS EVALUATIONS: 28282  	  time passed:9.1113 
+
+
+
+
+
+
+Generation: 12 
+
+
+FITNESS EVALUATIONS: 36497  	  time passed:11.7306 
+
+
+
+
+
+
+
+
+
+BREAK AT THE SAME BASE: 11
+
+
+
+BREAK AT IMMEDIATE INFECT: 0
+
+
+
+TEMPLATES: 25 (7000)
+
+
+
+TEMPLATES: 0
+12
+1  ?  1  1  ?  1  1  1  ?  1  1  1  ?  1  1  1  ?  ?  ?  ?  
+
+
+TEMPLATES: 1
+12
+1  ?  1  1  ?  1  1  1  ?  1  1  1  ?  1  1  1  ?  ?  ?  ?  
+
+
+TEMPLATES: 2
+13
+1  ?  1  1  ?  1  1  1  ?  1  1  1  ?  1  1  1  ?  1  ?  ?  
+
+
+TEMPLATES: 3
+16
+1  1  1  1  ?  1  1  1  ?  1  1  1  ?  1  1  1  1  1  1  ?  
+
+
+TEMPLATES: 4
+5
+1  ?  ?  1  ?  1  ?  ?  ?  1  ?  ?  ?  1  ?  ?  ?  ?  ?  ?  
+
+
+TEMPLATES: 5
+10
+1  1  ?  ?  1  1  ?  ?  1  1  ?  ?  ?  1  ?  ?  1  1  1  ?  
+
+
+TEMPLATES: 6
+4
+?  ?  ?  ?  ?  ?  ?  ?  ?  1  ?  ?  ?  1  1  ?  1  ?  ?  ?  
+
+
+TEMPLATES: 7
+7
+?  ?  ?  ?  ?  ?  ?  ?  ?  1  ?  ?  1  1  1  ?  1  1  ?  1  
+
+
+TEMPLATES: 8
+6
+?  1  ?  ?  ?  ?  ?  ?  ?  1  ?  ?  ?  1  1  ?  1  ?  1  ?  
+
+
+TEMPLATES: 9
+9
+?  1  ?  ?  ?  ?  ?  ?  ?  1  ?  ?  1  1  1  ?  1  1  1  1  
+
+
+TEMPLATES: 10
+6
+?  ?  ?  ?  ?  ?  ?  ?  ?  1  ?  ?  1  1  1  ?  1  ?  ?  1  
+
+
+TEMPLATES: 11
+6
+1  ?  ?  1  ?  1  ?  ?  ?  1  ?  1  ?  1  ?  ?  ?  ?  ?  ?  
+
+
+TEMPLATES: 12
+8
+?  ?  ?  ?  ?  ?  ?  ?  ?  1  ?  1  1  1  1  ?  1  1  ?  1  
+
+
+TEMPLATES: 13
+17
+1  1  1  ?  1  1  1  1  1  ?  1  1  1  ?  1  1  1  1  1  1  
+
+
+TEMPLATES: 14
+6
+1  ?  ?  1  ?  1  ?  ?  ?  1  ?  1  ?  1  ?  ?  ?  ?  ?  ?  
+
+
+TEMPLATES: 15
+4
+1  ?  ?  1  ?  1  ?  ?  ?  ?  ?  1  ?  ?  ?  ?  ?  ?  ?  ?  
+
+
+TEMPLATES: 16
+4
+1  ?  ?  1  ?  1  ?  ?  ?  ?  ?  1  ?  ?  ?  ?  ?  ?  ?  ?  
+
+
+TEMPLATES: 17
+7
+1  ?  ?  1  ?  1  ?  ?  ?  ?  ?  1  1  ?  ?  ?  ?  ?  1  1  
+
+
+TEMPLATES: 18
+4
+1  ?  ?  1  ?  1  ?  ?  ?  ?  ?  1  ?  ?  ?  ?  ?  ?  ?  ?  
+
+
+TEMPLATES: 19
+4
+1  ?  ?  1  ?  1  ?  ?  ?  ?  ?  1  ?  ?  ?  ?  ?  ?  ?  ?  
+
+
+TEMPLATES: 20
+6
+1  ?  ?  1  ?  1  ?  ?  ?  1  ?  1  ?  1  ?  ?  ?  ?  ?  ?  
+
+
+TEMPLATES: 21
+4
+1  ?  ?  1  ?  1  ?  ?  ?  ?  ?  1  ?  ?  ?  ?  ?  ?  ?  ?  
+
+
+TEMPLATES: 22
+4
+1  ?  ?  1  ?  1  ?  ?  ?  ?  ?  1  ?  ?  ?  ?  ?  ?  ?  ?  
+
+
+TEMPLATES: 23
+6
+?  1  ?  ?  ?  ?  ?  ?  ?  1  ?  ?  ?  1  1  ?  1  ?  1  ?  
+
+
+TEMPLATES: 24
+7
+1  ?  ?  1  ?  1  ?  ?  ?  1  ?  1  ?  1  ?  ?  ?  1  ?  ?  
+
+
+
+
+FITNESS EVALUATIONS: 36497
+
+
+

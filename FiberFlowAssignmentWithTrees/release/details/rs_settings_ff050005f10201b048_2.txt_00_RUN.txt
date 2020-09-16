@@ -1,0 +1,15 @@
+In parameters read: z_rs_settings_ff050005f10201b048_2.txt
+Initializing...
+Initting...1
+Initting...2
+Started..
+Started at: 0.00321543   fiber fitness:311.00000000
+
+Generation: 26 new best fitness: 0.00325733  fiber best fitness: 307.00000000   [fitness evaluations:28] [time passed:0.5049]
+Generation: 90 new best fitness: 0.00327869  fiber best fitness: 305.00000000   [fitness evaluations:92] [time passed:1.8055]
+Generation: 115 new best fitness: 0.00338983  fiber best fitness: 295.00000000   [fitness evaluations:117] [time passed:2.3537]
+Generation: 341 new best fitness: 0.00350877  fiber best fitness: 285.00000000   [fitness evaluations:343] [time passed:6.9071]
+Generation: 14297 new best fitness: 0.00353357  fiber best fitness: 283.00000000   [fitness evaluations:14299] [time passed:281.7188]
+Generation: 30763 new best fitness: 0.00355872  fiber best fitness: 281.00000000   [fitness evaluations:30765] [time passed:604.0613]
+Generation: 88253 new best fitness: 0.00358423  fiber best fitness: 279.00000000   [fitness evaluations:88255] [time passed:1740.7649]
+Generation: 180365 new best fitness: 0.00363636  fiber best fitness: 275.00000000   [fitness evaluations:180367] [time passed:3546.6455]

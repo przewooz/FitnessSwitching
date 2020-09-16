@@ -1,0 +1,18 @@
+2047\\simple GA popsize
+0.000000\\simple GA cross
+0.000000\\simple GA mut
+
+
+
+
+
+Started at: 0.00294985   fiber fitness:339.00000000
+
+
+
+
+
+FITNESS EVALUATIONS: 274505
+
+
+

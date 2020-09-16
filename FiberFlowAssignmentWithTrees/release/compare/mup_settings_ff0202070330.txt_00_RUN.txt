@@ -1,0 +1,17 @@
+In parameters read: z_mup_settings_ff0202070330.txt
+Initializing...
+Initting...1
+Initting...2
+Started..
+removing virginity start fitness: 993.00000000 [evaluations:1] (solBTime:0.0000) [clePathFitEval:0] [clePathFitInit:0] [time passed:0.0002]
+removing virginity fitness: 961.00000000 [evaluations:184] (solBTime:0.0000) [clePathFitEval:55665] [clePathFitInit:2] [time passed:477.9016]
+removing virginity fitness: 945.00000000 [evaluations:380] (solBTime:0.0000) [clePathFitEval:102871] [clePathFitInit:4] [time passed:1011.1650]
+removing virginity fitness: 940.00000000 [evaluations:568] (solBTime:0.0000) [clePathFitEval:149306] [clePathFitInit:6] [time passed:1519.7261]
+removing virginity fitness: 936.00000000 [evaluations:749] (solBTime:0.0000) [clePathFitEval:198125] [clePathFitInit:8] [time passed:1990.3411]
+removing virginity fitness: 932.00000000 [evaluations:931] (solBTime:0.0000) [clePathFitEval:247473] [clePathFitInit:10] [time passed:2460.3847]
+removing virginity fitness: 931.00000000 [evaluations:1109] (solBTime:0.0000) [clePathFitEval:297608] [clePathFitInit:12] [time passed:2928.5167]
+removing virginity fitness: 929.00000000 [evaluations:1292] (solBTime:0.0000) [clePathFitEval:348511] [clePathFitInit:14] [time passed:3416.4684]
+removing virginity fitness: 927.00000000 [evaluations:2419] (solBTime:0.0000) [clePathFitEval:397217] [clePathFitInit:16] [time passed:6418.4859]
+removing virginity fitness: 923.00000000 [evaluations:3417] (solBTime:0.0000) [clePathFitEval:449543] [clePathFitInit:18] [time passed:9092.5643]
+removing virginity fitness: 923.00000000 [evaluations:5333] (solBTime:0.0000) [clePathFitEval:500128] [clePathFitInit:19] [time passed:14130.2476]
+Generation: 0 ct number: 1 (best fitness: 923.00000000) average: 0.00108342 best - average:0.00000000  [evaluations:5334] (solBTime:0.0000) [clePathFitEval:547921] [clePathFitInit:20] [time passed:14133.1650]

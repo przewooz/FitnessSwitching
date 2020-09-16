@@ -1,0 +1,19 @@
+Initializing...
+Initting...1
+SWITCHING TO SIMPLE:
+POPULATION 0: Before Fit=-1.00000000  CT=-1.00000000  AFTER Fit=0.00094251  CT=1061.00000000
+Initting...2
+Started..
+removing virginity start fitness: 1061.00000000 [evaluations:1] (solBTime:0.0000) [clePathFitEval:0] [clePathFitInit:0] [time passed:0.0000]
+removing virginity fitness: 1032.00000000 [evaluations:195] (solBTime:0.0000) [clePathFitEval:50741] [clePathFitInit:2] [full>simple:0] [time passed:26.1328]
+removing virginity fitness: 1018.00000000 [evaluations:380] (solBTime:0.0000) [clePathFitEval:107290] [clePathFitInit:4] [full>simple:0] [time passed:48.7195]
+Generation: 0 ct number: 1 (best fitness: 1018.00000000) average: 0.00098232 best - average:0.00000000  [evaluations:381] (solBTime:0.0000) [clePathFitEval:158920] [clePathFitInit:5] [full>simple:0] [time passed:49.0176]
+Generation: 1 ct number: 1 (best fitness: 1018.00000000) average: 0.00098232 best - average:0.00000000  [evaluations:382] (solBTime:0.0000) [clePathFitEval:211257] [clePathFitInit:6] [full>simple:0] [time passed:49.2075]
+ct number refresh; number after refresh: 1    patterns number: 1
+SWITCHING TO FULL:
+POPULATION 0: Before Fit=0.00098232  CT=1018.00000000  AFTER Fit=0.00098232  CT=1018.00000000
+POPULATION 1: Before Fit=-1.00000000  CT=-1.00000000  AFTER Fit=0.00095877  CT=1043.00000000
+removing virginity start fitness: 1043.00000000 [evaluations:386] (solBTime:0.0000) [clePathFitEval:211257] [clePathFitInit:6] [time passed:0.0000]
+removing virginity fitness: 1030.00000000 [evaluations:567] (solBTime:0.0000) [clePathFitEval:256815] [clePathFitInit:8] [full>simple:0] [time passed:72.4319]
+removing virginity fitness: 1023.00000000 [evaluations:766] (solBTime:0.0000) [clePathFitEval:304412] [clePathFitInit:10] [full>simple:0] [time passed:96.7169]
+Generation: 2 ct number: 2 (best fitness: 1017.00000000) average: 0.00098280 best - average:0.00000048  [evaluations:1141] (solBTime:0.0000) [clePathFitEval:405594] [clePathFitInit:14] [full>simple:0] [time passed:144.4891]

@@ -1,0 +1,69 @@
+3\\minimal pattern length
+16\\virus generations
+100\\virus population
+0.120000\\virus prob cut
+0.150000\\virus prob splice
+0.050000\\virus prob mutation
+0.050000\\virus prob rem gene
+0.050000\\virus prob add gene
+
+
+
+
+
+Generation: 0 
+
+
+FITNESS EVALUATIONS: 4254  	  time passed:4.7190 
+
+
+
+
+
+
+Generation: 1 
+
+
+FITNESS EVALUATIONS: 4256  	  time passed:4.7243 
+
+
+
+
+
+
+Generation: 2 
+
+
+FITNESS EVALUATIONS: 8442  	  time passed:10.2955 
+
+
+
+
+
+
+
+
+
+BREAK AT THE SAME BASE: 4
+
+
+
+BREAK AT IMMEDIATE INFECT: 0
+
+
+
+TEMPLATES: 1 (7000)
+
+
+
+TEMPLATES: 0
+7
+1  ?  1  ?  ?  ?  1  1  ?  1  1  ?  ?  ?  ?  ?  1  ?  ?  ?  
+
+
+
+
+FITNESS EVALUATIONS: 8442
+
+
+

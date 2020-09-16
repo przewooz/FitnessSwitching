@@ -1,0 +1,43 @@
+.\zz_test_run_grasp_\\file name
+.\test_summarize_2_10.txt\\summarize
+.\data2\ff.net\\net
+.\data2\11.rep\\replic
+.\data2\19.dem\\unicast
+\\anycast
+\\multicast
+.\data2\01.dea\\anycast1dir
+50\\transfer multiplier
+.\data2\ff30_p.pat\\paths
+.\data2\ff30_b.pat\\paths_backup
+.\data2\f_p.spec\\unispec
+.\data2\f_b.spec\\unispec_backup
+\\unireg
+\\trees
+\\treespec
+\\treereg
+2\\paths to use
+0\\trees to use
+1\\cores
+\\modulation
+\\solution
+HighestSlot\\fit func
+grasp\\algorithm
+30\\max time
+9921600\\switch time
+9999\\probing time
+1\\Solution constructon (0-normal; 1-fluent optimization)
+5\\lRestrictedCandidateListSize
+0.0\\dRestrictedCandidateListSizeFactor
+0\\iValueBasedCandidateListSize
+0\\lAcceptableDistanceFromOptimal
+5000\\lLocalSearchMaxIterations
+0.999\\dLocalSearchCoolingRateFactor
+10.0\\dLocalSearchNrOfDemandsToSwapFactor
+0\\lLocalSearchNrOfDemandsToSwap
+0.0\\dLocalSearchInitialTemperature
+1.0\\dLocalSearchInitialDistanceFromOptimal
+0.2\\dLocalSearchInitialProbabilityOfAcceptingWorseSolution
+
+
+
+

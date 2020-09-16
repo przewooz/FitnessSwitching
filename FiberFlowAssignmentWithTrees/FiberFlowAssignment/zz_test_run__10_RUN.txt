@@ -1,0 +1,14 @@
+Initializing...
+Initting..1
+I am running algorithm with following properties
+valuBasedRCL: 0
+rclSize: 5
+lsMaxIter: 1
+lsInitTemp: 1.442695
+lsInitDistFromOpt: 1.000000
+lsInitProbAcceptWorseSol: 0.500000
+lsCoolingRate: 0.999000
+lsSwapSize: 3
+Started..
+Fitness first sol: 23.000000000000000000000000000000000000000000000000000000000000000000000000000000000
+Best solution found: 23.000000000000000000000000000000000000000000000000000000000000000000000000000000000

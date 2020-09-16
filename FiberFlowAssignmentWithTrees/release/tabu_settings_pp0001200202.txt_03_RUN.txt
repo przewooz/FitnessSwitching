@@ -1,0 +1,8 @@
+Initializing...
+Initting...1
+Initting...2
+Started..
+Generation: 12 (best: 31.00000000) current: 31.00000000 [fitness evaluations:15] [time passed:0.0726]
+Generation: 299 (best: 29.00000000) current: 29.00000000 [fitness evaluations:302] [time passed:0.8440]
+Generation: 340 (best: 28.00000000) current: 28.00000000 [fitness evaluations:343] [time passed:0.9702]
+Generation: 900 (best: 25.00000000) current: 25.00000000 [fitness evaluations:903] [time passed:2.5638]

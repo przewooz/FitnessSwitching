@@ -1,0 +1,25 @@
+In parameters read: z_mup_settings_ff0101070320.txt
+Initializing...
+Initting...1
+Initting...2
+Started..
+removing virginity start fitness: 1013.00000000 [evaluations:1] (solBTime:0.0000) [clePathFitEval:0] [clePathFitInit:0] [time passed:0.0002]
+removing virginity fitness: 972.00000000 [evaluations:194] (solBTime:0.0000) [clePathFitEval:50741] [clePathFitInit:2] [time passed:319.2559]
+removing virginity fitness: 969.00000000 [evaluations:376] (solBTime:0.0000) [clePathFitEval:107290] [clePathFitInit:4] [time passed:617.0797]
+removing virginity fitness: 956.00000000 [evaluations:571] (solBTime:0.0000) [clePathFitEval:164160] [clePathFitInit:6] [time passed:934.3376]
+removing virginity fitness: 955.00000000 [evaluations:1677] (solBTime:0.0000) [clePathFitEval:213311] [clePathFitInit:8] [time passed:2691.9897]
+removing virginity fitness: 951.00000000 [evaluations:2789] (solBTime:0.0000) [clePathFitEval:264093] [clePathFitInit:10] [time passed:4458.3898]
+removing virginity fitness: 951.00000000 [evaluations:4701] (solBTime:0.0000) [clePathFitEval:311057] [clePathFitInit:11] [time passed:7490.3965]
+Generation: 0 ct number: 1 (best fitness: 951.00000000) average: 0.00105152 best - average:0.00000000  [evaluations:4702] (solBTime:0.0000) [clePathFitEval:366385] [clePathFitInit:12] [time passed:7492.1815]
+Generation: 1 ct number: 1 (best fitness: 951.00000000) average: 0.00105152 best - average:0.00000000  [evaluations:4703] (solBTime:0.0000) [clePathFitEval:411356] [clePathFitInit:13] [time passed:7493.9587]
+ct number refresh; number after refresh: 1    patterns number: 1
+removing virginity start fitness: 979.00000000 [evaluations:4704] (solBTime:0.0000) [clePathFitEval:411356] [clePathFitInit:13] [time passed:7493.9957]
+removing virginity fitness: 976.00000000 [evaluations:4893] (solBTime:0.0000) [clePathFitEval:459139] [clePathFitInit:15] [time passed:7813.8747]
+removing virginity fitness: 970.00000000 [evaluations:5083] (solBTime:0.0000) [clePathFitEval:513970] [clePathFitInit:17] [time passed:8135.8929]
+removing virginity fitness: 966.00000000 [evaluations:5279] (solBTime:0.0000) [clePathFitEval:562752] [clePathFitInit:19] [time passed:8472.5358]
+removing virginity fitness: 964.00000000 [evaluations:5468] (solBTime:0.0000) [clePathFitEval:608600] [clePathFitInit:21] [time passed:8794.5030]
+removing virginity fitness: 963.00000000 [evaluations:5649] (solBTime:0.0000) [clePathFitEval:660206] [clePathFitInit:23] [time passed:9107.2767]
+removing virginity fitness: 958.00000000 [evaluations:5834] (solBTime:0.0000) [clePathFitEval:704371] [clePathFitInit:25] [time passed:9425.5702]
+removing virginity fitness: 957.00000000 [evaluations:6131] (solBTime:0.0000) [clePathFitEval:754490] [clePathFitInit:27] [time passed:9935.0990]
+removing virginity fitness: 956.00000000 [evaluations:7241] (solBTime:0.0000) [clePathFitEval:807070] [clePathFitInit:29] [time passed:11862.9396]
+Generation: 2 ct number: 2 (best fitness: 951.00000000) average: 0.00104877 best - average:0.00000275  [evaluations:7616] (solBTime:0.0000) [clePathFitEval:913344] [clePathFitInit:33] [time passed:12507.0694]

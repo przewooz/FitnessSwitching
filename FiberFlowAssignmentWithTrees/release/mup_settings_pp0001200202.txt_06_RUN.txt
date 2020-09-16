@@ -1,0 +1,87 @@
+Initializing...
+Initting...1
+Initting...2
+Started..
+removing virginity start fitness: 28.00000000 [evaluations:1] (solBTime:0.0000) [clePathFitEval:0] [clePathFitInit:0] [time passed:0.0002]
+removing virginity fitness: 28.00000000 [evaluations:1940] (solBTime:0.0000) [clePathFitEval:1009] [clePathFitInit:1] [time passed:0.6287]
+Generation: 0 ct number: 1 (best fitness: 28.00000000) average: 0.03571429 best - average:0.00000000  [evaluations:1941] (solBTime:0.0000) [clePathFitEval:2071] [clePathFitInit:2] [time passed:0.6349]
+Generation: 1 ct number: 1 (best fitness: 28.00000000) average: 0.03571429 best - average:0.00000000  [evaluations:1942] (solBTime:0.0000) [clePathFitEval:3115] [clePathFitInit:3] [time passed:0.6396]
+ct number refresh; number after refresh: 1    patterns number: 0
+removing virginity start fitness: 32.00000000 [evaluations:1943] (solBTime:0.0000) [clePathFitEval:3115] [clePathFitInit:3] [time passed:0.6427]
+removing virginity fitness: 28.00000000 [evaluations:2130] (solBTime:0.0000) [clePathFitEval:4245] [clePathFitInit:5] [time passed:0.7028]
+removing virginity fitness: 28.00000000 [evaluations:4043] (solBTime:0.0000) [clePathFitEval:5430] [clePathFitInit:6] [time passed:1.3123]
+Generation: 2 ct number: 2 (best fitness: 28.00000000) average: 0.03571429 best - average:0.00000000  [evaluations:4045] (solBTime:0.0000) [clePathFitEval:7574] [clePathFitInit:8] [time passed:1.3198]
+Generation: 3 ct number: 2 (best fitness: 28.00000000) average: 0.03571429 best - average:0.00000000  [evaluations:5946] (solBTime:0.0000) [clePathFitEval:9621] [clePathFitInit:10] [time passed:1.9476]
+ct number refresh; number after refresh: 2    patterns number: 2
+removing virginity start fitness: 29.00000000 [evaluations:5947] (solBTime:0.0000) [clePathFitEval:9621] [clePathFitInit:10] [time passed:1.9515]
+removing virginity fitness: 26.00000000 [evaluations:6142] (solBTime:0.0000) [clePathFitEval:10817] [clePathFitInit:12] [time passed:2.0138]
+removing virginity fitness: 26.00000000 [evaluations:8045] (solBTime:0.0000) [clePathFitEval:11842] [clePathFitInit:13] [time passed:2.6160]
+Generation: 4 ct number: 3 (best fitness: 26.00000000) average: 0.03754579 best - average:0.00091575  [evaluations:8618] (solBTime:0.0000) [clePathFitEval:15033] [clePathFitInit:19] [time passed:2.8039]
+ct best fitness increased - reducing CT number to: 3
+Generation: 5 ct number: 3 (best fitness: 25.00000000) average: 0.03897436 best - average:0.00102564  [evaluations:11025] (solBTime:0.0000) [clePathFitEval:18201] [clePathFitInit:24] [time passed:3.5472]
+ct best fitness increased - reducing CT number to: 3
+Generation: 6 ct number: 3 (best fitness: 25.00000000) average: 0.03948718 best - average:0.00051282  [evaluations:13301] (solBTime:0.0000) [clePathFitEval:21430] [clePathFitInit:29] [time passed:4.2472]
+Generation: 7 ct number: 3 (best fitness: 25.00000000) average: 0.04000000 best - average:0.00000000  [evaluations:13500] (solBTime:0.0000) [clePathFitEval:24505] [clePathFitInit:33] [time passed:4.3161]
+Generation: 8 ct number: 3 (best fitness: 25.00000000) average: 0.04000000 best - average:0.00000000  [evaluations:15399] (solBTime:0.0000) [clePathFitEval:27863] [clePathFitInit:36] [time passed:4.9004]
+ct number refresh; number after refresh: 3    patterns number: 10
+removing virginity start fitness: 28.00000000 [evaluations:15400] (solBTime:0.0000) [clePathFitEval:27863] [clePathFitInit:36] [time passed:4.9056]
+removing virginity fitness: 26.00000000 [evaluations:15828] (solBTime:0.0000) [clePathFitEval:29013] [clePathFitInit:38] [time passed:5.0473]
+removing virginity fitness: 26.00000000 [evaluations:17760] (solBTime:0.0000) [clePathFitEval:30120] [clePathFitInit:39] [time passed:5.6372]
+Generation: 9 ct number: 4 (best fitness: 25.00000000) average: 0.03961538 best - average:0.00038462  [evaluations:18519] (solBTime:0.0000) [clePathFitEval:34320] [clePathFitInit:47] [time passed:5.8825]
+Generation: 10 ct number: 4 (best fitness: 25.00000000) average: 0.04000000 best - average:0.00000000  [evaluations:24456] (solBTime:0.0000) [clePathFitEval:39009] [clePathFitInit:52] [time passed:7.7520]
+Generation: 11 ct number: 4 (best fitness: 25.00000000) average: 0.04000000 best - average:0.00000000  [evaluations:28282] (solBTime:0.0000) [clePathFitEval:43543] [clePathFitInit:56] [time passed:8.9887]
+ct number refresh; number after refresh: 4    patterns number: 20
+removing virginity start fitness: 32.00000000 [evaluations:28283] (solBTime:0.0000) [clePathFitEval:43543] [clePathFitInit:56] [time passed:8.9951]
+removing virginity fitness: 28.00000000 [evaluations:28480] (solBTime:0.0000) [clePathFitEval:44655] [clePathFitInit:58] [time passed:9.0596]
+removing virginity fitness: 28.00000000 [evaluations:30409] (solBTime:0.0000) [clePathFitEval:45883] [clePathFitInit:59] [time passed:9.6585]
+Generation: 12 ct number: 5 (best fitness: 25.00000000) average: 0.03914286 best - average:0.00085714  [evaluations:36497] (solBTime:0.0000) [clePathFitEval:51339] [clePathFitInit:66] [time passed:11.5746]
+Generation: 13 ct number: 5 (best fitness: 25.00000000) average: 0.03914286 best - average:0.00085714  [evaluations:44371] (solBTime:0.0000) [clePathFitEval:57039] [clePathFitInit:72] [time passed:14.0513]
+ct number refresh; number after refresh: 5    patterns number: 28
+removing virginity start fitness: 31.00000000 [evaluations:44372] (solBTime:0.0000) [clePathFitEval:57039] [clePathFitInit:72] [time passed:14.0590]
+removing virginity fitness: 28.00000000 [evaluations:44566] (solBTime:0.0000) [clePathFitEval:58035] [clePathFitInit:74] [time passed:14.1229]
+removing virginity fitness: 28.00000000 [evaluations:46492] (solBTime:0.0000) [clePathFitEval:59255] [clePathFitInit:75] [time passed:14.7339]
+Generation: 14 ct number: 6 (best fitness: 25.00000000) average: 0.03928571 best - average:0.00071429  [evaluations:51040] (solBTime:0.0000) [clePathFitEval:65641] [clePathFitInit:85] [time passed:16.1768]
+Generation: 15 ct number: 6 (best fitness: 25.00000000) average: 0.04000000 best - average:0.00000000  [evaluations:59072] (solBTime:0.0000) [clePathFitEval:72469] [clePathFitInit:93] [time passed:18.7045]
+Generation: 16 ct number: 6 (best fitness: 25.00000000) average: 0.04000000 best - average:0.00000000  [evaluations:70560] (solBTime:0.0000) [clePathFitEval:79491] [clePathFitInit:99] [time passed:22.3872]
+ct number refresh; number after refresh: 5    patterns number: 43
+removing virginity start fitness: 36.00000000 [evaluations:70561] (solBTime:0.0000) [clePathFitEval:79491] [clePathFitInit:99] [time passed:22.3987]
+removing virginity fitness: 31.00000000 [evaluations:70751] (solBTime:0.0000) [clePathFitEval:80493] [clePathFitInit:101] [time passed:22.4652]
+removing virginity fitness: 28.00000000 [evaluations:70942] (solBTime:0.0000) [clePathFitEval:81551] [clePathFitInit:103] [time passed:22.5297]
+removing virginity fitness: 26.00000000 [evaluations:71139] (solBTime:0.0000) [clePathFitEval:82510] [clePathFitInit:105] [time passed:22.6080]
+removing virginity fitness: 26.00000000 [evaluations:73025] (solBTime:0.0000) [clePathFitEval:83652] [clePathFitInit:106] [time passed:23.1898]
+Generation: 17 ct number: 6 (best fitness: 25.00000000) average: 0.04000000 best - average:0.00000000  [evaluations:79290] (solBTime:0.0000) [clePathFitEval:90477] [clePathFitInit:115] [time passed:25.1588]
+ct number refresh; number after refresh: 6    patterns number: 49
+removing virginity start fitness: 35.00000000 [evaluations:79291] (solBTime:0.0000) [clePathFitEval:90477] [clePathFitInit:115] [time passed:25.1690]
+removing virginity fitness: 26.00000000 [evaluations:79481] (solBTime:0.0000) [clePathFitEval:91570] [clePathFitInit:117] [time passed:25.2349]
+removing virginity fitness: 26.00000000 [evaluations:81381] (solBTime:0.0000) [clePathFitEval:92750] [clePathFitInit:118] [time passed:25.8282]
+Generation: 18 ct number: 7 (best fitness: 25.00000000) average: 0.04000000 best - average:0.00000000  [evaluations:89394] (solBTime:0.0000) [clePathFitEval:100683] [clePathFitInit:127] [time passed:28.3766]
+Generation: 19 ct number: 7 (best fitness: 25.00000000) average: 0.04000000 best - average:0.00000000  [evaluations:102779] (solBTime:0.0000) [clePathFitEval:108996] [clePathFitInit:134] [time passed:32.6301]
+ct number refresh; number after refresh: 6    patterns number: 60
+removing virginity start fitness: 31.00000000 [evaluations:102780] (solBTime:0.0000) [clePathFitEval:108996] [clePathFitInit:134] [time passed:32.6416]
+removing virginity fitness: 26.00000000 [evaluations:102976] (solBTime:0.0000) [clePathFitEval:110215] [clePathFitInit:136] [time passed:32.7102]
+removing virginity fitness: 26.00000000 [evaluations:104898] (solBTime:0.0000) [clePathFitEval:111288] [clePathFitInit:137] [time passed:33.3067]
+Generation: 20 ct number: 7 (best fitness: 25.00000000) average: 0.04000000 best - average:0.00000000  [evaluations:116544] (solBTime:0.0000) [clePathFitEval:119282] [clePathFitInit:145] [time passed:36.9506]
+ct number refresh; number after refresh: 7    patterns number: 64
+removing virginity start fitness: 35.00000000 [evaluations:116545] (solBTime:0.0000) [clePathFitEval:119282] [clePathFitInit:145] [time passed:36.9626]
+removing virginity fitness: 28.00000000 [evaluations:116743] (solBTime:0.0000) [clePathFitEval:120349] [clePathFitInit:147] [time passed:37.0329]
+removing virginity fitness: 28.00000000 [evaluations:118659] (solBTime:0.0000) [clePathFitEval:121490] [clePathFitInit:148] [time passed:37.6319]
+Generation: 21 ct number: 8 (best fitness: 25.00000000) average: 0.04000000 best - average:0.00000000  [evaluations:128831] (solBTime:0.0000) [clePathFitEval:130440] [clePathFitInit:159] [time passed:40.8621]
+Generation: 22 ct number: 8 (best fitness: 25.00000000) average: 0.04000000 best - average:0.00000000  [evaluations:144097] (solBTime:0.0000) [clePathFitEval:140111] [clePathFitInit:167] [time passed:45.6654]
+ct number refresh; number after refresh: 6    patterns number: 74
+removing virginity start fitness: 32.00000000 [evaluations:144098] (solBTime:0.0000) [clePathFitEval:140111] [clePathFitInit:167] [time passed:45.6792]
+removing virginity fitness: 28.00000000 [evaluations:144289] (solBTime:0.0000) [clePathFitEval:141130] [clePathFitInit:169] [time passed:45.7451]
+removing virginity fitness: 28.00000000 [evaluations:146176] (solBTime:0.0000) [clePathFitEval:142239] [clePathFitInit:170] [time passed:46.3348]
+Generation: 23 ct number: 7 (best fitness: 25.00000000) average: 0.04000000 best - average:0.00000000  [evaluations:154340] (solBTime:0.0000) [clePathFitEval:149889] [clePathFitInit:180] [time passed:48.8973]
+ct number refresh; number after refresh: 6    patterns number: 80
+removing virginity start fitness: 35.00000000 [evaluations:154341] (solBTime:0.0000) [clePathFitEval:149889] [clePathFitInit:180] [time passed:48.9270]
+removing virginity fitness: 28.00000000 [evaluations:154525] (solBTime:0.0000) [clePathFitEval:150879] [clePathFitInit:182] [time passed:49.0008]
+removing virginity fitness: 26.00000000 [evaluations:154832] (solBTime:0.0000) [clePathFitEval:151932] [clePathFitInit:184] [time passed:49.1100]
+removing virginity fitness: 26.00000000 [evaluations:156755] (solBTime:0.0000) [clePathFitEval:153147] [clePathFitInit:185] [time passed:49.7201]
+Generation: 24 ct number: 7 (best fitness: 25.00000000) average: 0.04000000 best - average:0.00000000  [evaluations:164904] (solBTime:0.0000) [clePathFitEval:160827] [clePathFitInit:195] [time passed:52.3142]
+ct number refresh; number after refresh: 7    patterns number: 84
+removing virginity start fitness: 32.00000000 [evaluations:164905] (solBTime:0.0000) [clePathFitEval:160827] [clePathFitInit:195] [time passed:52.3430]
+removing virginity fitness: 31.00000000 [evaluations:165089] (solBTime:0.0000) [clePathFitEval:161840] [clePathFitInit:197] [time passed:52.4162]
+removing virginity fitness: 28.00000000 [evaluations:165287] (solBTime:0.0000) [clePathFitEval:162911] [clePathFitInit:199] [time passed:52.4916]
+removing virginity fitness: 28.00000000 [evaluations:167197] (solBTime:0.0000) [clePathFitEval:164028] [clePathFitInit:200] [time passed:53.1204]
+Generation: 25 ct number: 8 (best fitness: 25.00000000) average: 0.04000000 best - average:0.00000000  [evaluations:177339] (solBTime:0.0000) [clePathFitEval:173015] [clePathFitInit:211] [time passed:56.3514]
+Generation: 26 ct number: 8 (best fitness: 25.00000000) average: 0.04000000 best - average:0.00000000  [evaluations:192675] (solBTime:0.0000) [clePathFitEval:182358] [clePathFitInit:219] [time passed:61.1936]

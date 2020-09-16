@@ -1,0 +1,185 @@
+Error local time: 2019-01-24 00:15:13
+Error Message:
+System.Runtime.InteropServices.SEHException: Sk³adnik zewnêtrzny zg³osi³ wyj¹tek.
+   w _CxxThrowException(Void* , _s__ThrowInfo* )
+   w std.vector<int,std::allocator<int> >._Xran() w c:\program files (x86)\microsoft visual studio 9.0\vc\include\vector:wiersz 1263
+   w FiberNets.CFiberConnection.eReserveSlots(CFiberConnection* , CError* , Int32 iFirstSlot, Int32 iSlotsNumber, Boolean bErrorControl) w d:\studia\doktoranckie\publikacje\x 2018.03 eony z corami\kody_piotrka\2018.09.25 fiberflowassignmentwithtrees_pl\fiberflowassignmentwithtrees\fiberflowassignment\fibernet.cpp:wiersz 1950
+   w FiberNets.CFiberPath.eSetPath(CFiberPath* , CError* , Int32 iFirstSlot, Int32 iSlotsNumber) w d:\studia\doktoranckie\publikacje\x 2018.03 eony z corami\kody_piotrka\2018.09.25 fiberflowassignmentwithtrees_pl\fiberflowassignmentwithtrees\fiberflowassignment\fibernet.cpp:wiersz 2628
+   w FiberNets.CFiberSolutionChannel.eSetChanel(CFiberSolutionChannel* , CError* , CFiberPath* pcChannelPath, Int32 iStartSlot, Int32 iSlotsNumber) w d:\studia\doktoranckie\publikacje\x 2018.03 eony z corami\kody_piotrka\2018.09.25 fiberflowassignmentwithtrees_pl\fiberflowassignmentwithtrees\fiberflowassignment\fibernet.cpp:wiersz 3818
+   w FiberNets.CFiberSolution.eSetChanel(CFiberSolution* , CError* , Int32 iChanelOffset, CFiberPath* pcPath, Int32 iStartSlot, Int32 iSlotsNumber) w d:\studia\doktoranckie\publikacje\x 2018.03 eony z corami\kody_piotrka\2018.09.25 fiberflowassignmentwithtrees_pl\fiberflowassignmentwithtrees\fiberflowassignment\fibernet.cpp:wiersz 2999
+   w MessyGA.CMessyIndividual.v_construct_solution_with_fluent_optimization(CMessyIndividual* , CMessyGene** pcOrderedFenotype, Int32* piSolutionRepaired, CMessyGene* pcCompetetiveTemplateToInfect) w d:\studia\doktoranckie\publikacje\x 2018.03 eony z corami\kody_piotrka\2018.09.25 fiberflowassignmentwithtrees_pl\fiberflowassignmentwithtrees\messgas\messyga.cpp:wiersz 8162
+   w MessyGA.CMessyIndividual.v_construct_solution(CMessyIndividual* , CMessyGene** pcOrderedFenotype, Int32* piSolutionRepaired, CMessyGene* pcCompetetiveTemplateToInfect) w d:\studia\doktoranckie\publikacje\x 2018.03 eony z corami\kody_piotrka\2018.09.25 fiberflowassignmentwithtrees_pl\fiberflowassignmentwithtrees\messgas\messyga.cpp:wiersz 8201
+   w MessyGA.CMessyIndividual.d_compute_fitness(CMessyIndividual* , CMessyGene* pcCompetetiveTemplate, Int32* piSolutionRepaired) w d:\studia\doktoranckie\publikacje\x 2018.03 eony z corami\kody_piotrka\2018.09.25 fiberflowassignmentwithtrees_pl\fiberflowassignmentwithtrees\messgas\messyga.cpp:wiersz 7762
+   w MessyGA.CMessyIndividual.dComputeFitness(CMessyIndividual* , CMessyGene* pcCompetetiveTemplate, Int32* piSolutionRepaired) w d:\studia\doktoranckie\publikacje\x 2018.03 eony z corami\kody_piotrka\2018.09.25 fiberflowassignmentwithtrees_pl\fiberflowassignmentwithtrees\messgas\messyga.cpp:wiersz 7676
+   w MessyGA.CmGA.dGetCompTemplateFitness(CmGA* ) w d:\studia\doktoranckie\publikacje\x 2018.03 eony z corami\kody_piotrka\2018.09.25 fiberflowassignmentwithtrees_pl\fiberflowassignmentwithtrees\messgas\messyga.cpp:wiersz 4892
+   w MessyGA.CVirusGA.eRun(CVirusGA* , CError* , Double dMaxTime, Double dProbingTime, CStringT<char\,ATL::StrTraitATL<char\,ATL::ChTraitsCRT<char> > >* sReportFile, CStringT<char\,ATL::StrTraitATL<char\,ATL::ChTraitsCRT<char> > >* sSummarizedReport, CStringT<char\,ATL::StrTraitATL<char\,ATL::ChTraitsCRT<char> > >* sReferenceSolution, Double* pdOptimalValue, ListBox listInfo) w d:\studia\doktoranckie\publikacje\x 2018.03 eony z corami\kody_piotrka\2018.09.25 fiberflowassignmentwithtrees_pl\fiberflowassignmentwithtrees\messgas\messyga.cpp:wiersz 3851
+   w CSystem.eRun(CSystem* , CError* , CStringT<char\,ATL::StrTraitATL<char\,ATL::ChTraitsCRT<char> > >* sMainDir, CStringT<char\,ATL::StrTraitATL<char\,ATL::ChTraitsCRT<char> > >* sSettings, ListBox listInfo) w d:\studia\doktoranckie\publikacje\x 2018.03 eony z corami\kody_piotrka\2018.09.25 fiberflowassignmentwithtrees_pl\fiberflowassignmentwithtrees\fiberflowassignment\system.cpp:wiersz 1048
+ General muppets error
+______________
+
+Error local time: 2019-01-24 00:18:33
+Error Message:
+System.Runtime.InteropServices.SEHException: Sk³adnik zewnêtrzny zg³osi³ wyj¹tek.
+   w _CxxThrowException(Void* , _s__ThrowInfo* )
+   w std.vector<int,std::allocator<int> >._Xran() w c:\program files (x86)\microsoft visual studio 9.0\vc\include\vector:wiersz 1263
+   w std.vector<int,std::allocator<int> >.at(vector<int\,std::allocator<int> >* , UInt32 _Pos) w c:\program files (x86)\microsoft visual studio 9.0\vc\include\vector:wiersz 754
+   w FiberNets.CFiberConnection.eReserveSlots(CFiberConnection* , CError* , Int32 iFirstSlot, Int32 iSlotsNumber, Boolean bErrorControl) w d:\studia\doktoranckie\publikacje\x 2018.03 eony z corami\kody_piotrka\2018.09.25 fiberflowassignmentwithtrees_pl\fiberflowassignmentwithtrees\fiberflowassignment\fibernet.cpp:wiersz 1950
+   w FiberNets.CFiberPath.eSetPath(CFiberPath* , CError* , Int32 iFirstSlot, Int32 iSlotsNumber) w d:\studia\doktoranckie\publikacje\x 2018.03 eony z corami\kody_piotrka\2018.09.25 fiberflowassignmentwithtrees_pl\fiberflowassignmentwithtrees\fiberflowassignment\fibernet.cpp:wiersz 2628
+   w FiberNets.CFiberSolutionChannel.eSetChanel(CFiberSolutionChannel* , CError* , CFiberPath* pcChannelPath, Int32 iStartSlot, Int32 iSlotsNumber) w d:\studia\doktoranckie\publikacje\x 2018.03 eony z corami\kody_piotrka\2018.09.25 fiberflowassignmentwithtrees_pl\fiberflowassignmentwithtrees\fiberflowassignment\fibernet.cpp:wiersz 3818
+   w FiberNets.CFiberSolution.eSetChanel(CFiberSolution* , CError* , Int32 iChanelOffset, CFiberPath* pcPath, Int32 iStartSlot, Int32 iSlotsNumber) w d:\studia\doktoranckie\publikacje\x 2018.03 eony z corami\kody_piotrka\2018.09.25 fiberflowassignmentwithtrees_pl\fiberflowassignmentwithtrees\fiberflowassignment\fibernet.cpp:wiersz 2999
+   w MessyGA.CMessyIndividual.v_construct_solution_with_fluent_optimization(CMessyIndividual* , CMessyGene** pcOrderedFenotype, Int32* piSolutionRepaired, CMessyGene* pcCompetetiveTemplateToInfect) w d:\studia\doktoranckie\publikacje\x 2018.03 eony z corami\kody_piotrka\2018.09.25 fiberflowassignmentwithtrees_pl\fiberflowassignmentwithtrees\messgas\messyga.cpp:wiersz 8162
+   w MessyGA.CMessyIndividual.v_construct_solution(CMessyIndividual* , CMessyGene** pcOrderedFenotype, Int32* piSolutionRepaired, CMessyGene* pcCompetetiveTemplateToInfect) w d:\studia\doktoranckie\publikacje\x 2018.03 eony z corami\kody_piotrka\2018.09.25 fiberflowassignmentwithtrees_pl\fiberflowassignmentwithtrees\messgas\messyga.cpp:wiersz 8201
+   w MessyGA.CMessyIndividual.d_compute_fitness(CMessyIndividual* , CMessyGene* pcCompetetiveTemplate, Int32* piSolutionRepaired) w d:\studia\doktoranckie\publikacje\x 2018.03 eony z corami\kody_piotrka\2018.09.25 fiberflowassignmentwithtrees_pl\fiberflowassignmentwithtrees\messgas\messyga.cpp:wiersz 7762
+   w MessyGA.CMessyIndividual.dComputeFitness(CMessyIndividual* , CMessyGene* pcCompetetiveTemplate, Int32* piSolutionRepaired) w d:\studia\doktoranckie\publikacje\x 2018.03 eony z corami\kody_piotrka\2018.09.25 fiberflowassignmentwithtrees_pl\fiberflowassignmentwithtrees\messgas\messyga.cpp:wiersz 7676
+   w MessyGA.CmGA.dGetCompTemplateFitness(CmGA* ) w d:\studia\doktoranckie\publikacje\x 2018.03 eony z corami\kody_piotrka\2018.09.25 fiberflowassignmentwithtrees_pl\fiberflowassignmentwithtrees\messgas\messyga.cpp:wiersz 4892
+   w MessyGA.CVirusGA.eRun(CVirusGA* , CError* , Double dMaxTime, Double dProbingTime, CStringT<char\,ATL::StrTraitATL<char\,ATL::ChTraitsCRT<char> > >* sReportFile, CStringT<char\,ATL::StrTraitATL<char\,ATL::ChTraitsCRT<char> > >* sSummarizedReport, CStringT<char\,ATL::StrTraitATL<char\,ATL::ChTraitsCRT<char> > >* sReferenceSolution, Double* pdOptimalValue, ListBox listInfo) w d:\studia\doktoranckie\publikacje\x 2018.03 eony z corami\kody_piotrka\2018.09.25 fiberflowassignmentwithtrees_pl\fiberflowassignmentwithtrees\messgas\messyga.cpp:wiersz 3851
+   w CSystem.eRun(CSystem* , CError* , CStringT<char\,ATL::StrTraitATL<char\,ATL::ChTraitsCRT<char> > >* sMainDir, CStringT<char\,ATL::StrTraitATL<char\,ATL::ChTraitsCRT<char> > >* sSettings, ListBox listInfo) w d:\studia\doktoranckie\publikacje\x 2018.03 eony z corami\kody_piotrka\2018.09.25 fiberflowassignmentwithtrees_pl\fiberflowassignmentwithtrees\fiberflowassignment\system.cpp:wiersz 1048
+ General muppets error
+______________
+
+Error local time: 2019-02-12 22:54:51
+Error Message:
+Couldnt open settings files series file (D:\studia\doktoranckie\publikacje\X 2018.03 EONy z corami\kody_piotrka\2018.09.25 FiberFlowAssignmentWithTrees_pl\FiberFlowAssignmentWithTrees\release\FiberFlowAssignment_test.exeserie.txt)
+______________
+
+Error local time: 2019-02-12 22:56:00
+Error Message:
+System.NullReferenceException: Odwo³anie do obiektu nie zosta³o ustawione na wyst¹pienie obiektu.
+   w MessyGA.CMessyIndividual.v_construct_solution_with_fluent_optimization(CMessyIndividual* , CMessyGene** pcOrderedFenotype, Int32* piSolutionRepaired, CMessyGene* pcCompetetiveTemplateToInfect) w d:\studia\doktoranckie\publikacje\x 2018.03 eony z corami\kody_piotrka\2018.09.25 fiberflowassignmentwithtrees_pl\fiberflowassignmentwithtrees\messgas\messyga.cpp:wiersz 8118
+   w MessyGA.CMessyIndividual.v_construct_solution(CMessyIndividual* , CMessyGene** pcOrderedFenotype, Int32* piSolutionRepaired, CMessyGene* pcCompetetiveTemplateToInfect) w d:\studia\doktoranckie\publikacje\x 2018.03 eony z corami\kody_piotrka\2018.09.25 fiberflowassignmentwithtrees_pl\fiberflowassignmentwithtrees\messgas\messyga.cpp:wiersz 8225
+   w MessyGA.CMessyIndividual.d_compute_fitness(CMessyIndividual* , CMessyGene* pcCompetetiveTemplate, Int32* piSolutionRepaired) w d:\studia\doktoranckie\publikacje\x 2018.03 eony z corami\kody_piotrka\2018.09.25 fiberflowassignmentwithtrees_pl\fiberflowassignmentwithtrees\messgas\messyga.cpp:wiersz 7786
+   w MessyGA.CMessyIndividual.dComputeFitness(CMessyIndividual* , CMessyGene* pcCompetetiveTemplate, Int32* piSolutionRepaired) w d:\studia\doktoranckie\publikacje\x 2018.03 eony z corami\kody_piotrka\2018.09.25 fiberflowassignmentwithtrees_pl\fiberflowassignmentwithtrees\messgas\messyga.cpp:wiersz 7700
+   w MessyGA.CmGA.dGetCompTemplateFitness(CmGA* ) w d:\studia\doktoranckie\publikacje\x 2018.03 eony z corami\kody_piotrka\2018.09.25 fiberflowassignmentwithtrees_pl\fiberflowassignmentwithtrees\messgas\messyga.cpp:wiersz 4916
+   w MessyGA.CVirusGA.eRun(CVirusGA* , CError* , Double dMaxTime, Double dProbingTime, CStringT<char\,ATL::StrTraitATL<char\,ATL::ChTraitsCRT<char> > >* sReportFile, CStringT<char\,ATL::StrTraitATL<char\,ATL::ChTraitsCRT<char> > >* sSummarizedReport, CStringT<char\,ATL::StrTraitATL<char\,ATL::ChTraitsCRT<char> > >* sReferenceSolution, Double* pdOptimalValue, ListBox listInfo) w d:\studia\doktoranckie\publikacje\x 2018.03 eony z corami\kody_piotrka\2018.09.25 fiberflowassignmentwithtrees_pl\fiberflowassignmentwithtrees\messgas\messyga.cpp:wiersz 3921
+   w CSystem.eRun(CSystem* , CError* , CStringT<char\,ATL::StrTraitATL<char\,ATL::ChTraitsCRT<char> > >* sMainDir, CStringT<char\,ATL::StrTraitATL<char\,ATL::ChTraitsCRT<char> > >* sSettings, ListBox listInfo) w d:\studia\doktoranckie\publikacje\x 2018.03 eony z corami\kody_piotrka\2018.09.25 fiberflowassignmentwithtrees_pl\fiberflowassignmentwithtrees\fiberflowassignment\system.cpp:wiersz 1048
+ General muppets error
+______________
+
+Error local time: 2019-02-27 21:27:22
+Error Message:
+Error at reading (switch time) parameter read:(probing time)
+______________
+
+Error local time: 2019-03-11 17:04:04
+Error Message:
+Couldnt open settings file (D:\studia\doktoranckie\publikacje\X 2018.03 EONy z corami\kody_piotrka\2018.09.25 FiberFlowAssignmentWithTrees_pl\FiberFlowAssignmentWithTrees\release\ | _ff000000f10201b048_tabu)
+______________
+
+Error local time: 2019-03-11 17:04:39
+Error Message:
+Error at reading (switch time) parameter read:(probing time)
+______________
+
+Error local time: 2019-03-11 17:04:57
+Error Message:
+Error at reading (switch time) parameter read:(probing time)
+______________
+
+Error local time: 2019-03-11 17:05:11
+Error Message:
+Error at reading (probing time) parameter read:(Solution constructon (0-normal; 1-fluent optimization))
+______________
+
+Error local time: 2019-03-13 22:05:01
+Error Message:
+Cannot open (D:\studia\doktoranckie\publikacje\X 2018.03 EONy z corami\kody_piotrka\2018.09.25 FiberFlowAssignmentWithTrees_pl\FiberFlowAssignmentWithTrees\release\FiberFlowAssignment_tabu.exe\problem_list.txt) for settings list generation
+______________
+
+Error local time: 2019-03-28 13:14:54
+Error Message:
+Error at reading (switch time) parameter read:(probing time)
+______________
+
+Error local time: 2019-03-28 14:02:14
+Error Message:
+Error at reading (ProRep) parameter read:(lRestrictedCandidateListSize)
+______________
+
+Error local time: 2019-03-28 14:04:29
+Error Message:
+Grasp should be run with fluent optimization
+______________
+
+Error local time: 2019-04-02 17:47:05
+Error Message:
+Grasp should be run with fluent optimization
+______________
+
+Error local time: 2019-05-15 22:14:41
+Error Message:
+Error at reading (switch time) parameter read:(probing time)
+______________
+
+Error local time: 2019-05-15 22:40:02
+Error Message:
+System.Runtime.InteropServices.SEHException: Sk³adnik zewnêtrzny zg³osi³ wyj¹tek.
+   w _CxxThrowException(Void* , _s__ThrowInfo* )
+   w std.vector<FiberNets::CFitnessPair,std::allocator<FiberNets::CFitnessPair> >._Xran() w c:\program files (x86)\microsoft visual studio 9.0\vc\include\vector:wiersz 1263
+   w std.vector<FiberNets::CFitnessPair,std::allocator<FiberNets::CFitnessPair> >.at(vector<FiberNets::CFitnessPair\,std::allocator<FiberNets::CFitnessPair> >* , UInt32 _Pos) w c:\program files (x86)\microsoft visual studio 9.0\vc\include\vector:wiersz 754
+   w FiberNets.CFiberSolution.vFitnessDiversitySave(CFiberSolution* , CStringT<char\,ATL::StrTraitATL<char\,ATL::ChTraitsCRT<char> > >* sDest) w d:\studia\doktoranckie\publikacje\x 2018.03 eony z corami\kody_piotrka\2018.09.25 fiberflowassignmentwithtrees_pl\fiberflowassignmentwithtrees\fiberflowassignment\fibernet.cpp:wiersz 3862
+   w MessyGA.CVirusGA.eRun(CVirusGA* , CError* , Double dMaxTime, Double dSimpleTime, Double dProbingTime, CStringT<char\,ATL::StrTraitATL<char\,ATL::ChTraitsCRT<char> > >* sReportFile, CStringT<char\,ATL::StrTraitATL<char\,ATL::ChTraitsCRT<char> > >* sSummarizedReport, CStringT<char\,ATL::StrTraitATL<char\,ATL::ChTraitsCRT<char> > >* sReferenceSolution, Double* pdOptimalValue, ListBox listInfo) w d:\studia\doktoranckie\publikacje\x 2018.03 eony z corami\kody_piotrka\2018.09.25 fiberflowassignmentwithtrees_pl\fiberflowassignmentwithtrees\messgas\messyga.cpp:wiersz 4106
+   w CSystem.eRun(CSystem* , CError* , CStringT<char\,ATL::StrTraitATL<char\,ATL::ChTraitsCRT<char> > >* sMainDir, CStringT<char\,ATL::StrTraitATL<char\,ATL::ChTraitsCRT<char> > >* sSettings, ListBox listInfo) w d:\studia\doktoranckie\publikacje\x 2018.03 eony z corami\kody_piotrka\2018.09.25 fiberflowassignmentwithtrees_pl\fiberflowassignmentwithtrees\fiberflowassignment\system.cpp:wiersz 1060
+ General muppets error
+______________
+
+Error local time: 2019-05-15 22:42:15
+Error Message:
+System.Runtime.InteropServices.SEHException: Sk³adnik zewnêtrzny zg³osi³ wyj¹tek.
+   w _CxxThrowException(Void* , _s__ThrowInfo* )
+   w std.vector<FiberNets::CFitnessPair,std::allocator<FiberNets::CFitnessPair> >._Xran() w c:\program files (x86)\microsoft visual studio 9.0\vc\include\vector:wiersz 1263
+   w std.vector<FiberNets::CFitnessPair,std::allocator<FiberNets::CFitnessPair> >.at(vector<FiberNets::CFitnessPair\,std::allocator<FiberNets::CFitnessPair> >* , UInt32 _Pos) w c:\program files (x86)\microsoft visual studio 9.0\vc\include\vector:wiersz 754
+   w FiberNets.CFiberSolution.vFitnessDiversitySave(CFiberSolution* , CStringT<char\,ATL::StrTraitATL<char\,ATL::ChTraitsCRT<char> > >* sDest) w d:\studia\doktoranckie\publikacje\x 2018.03 eony z corami\kody_piotrka\2018.09.25 fiberflowassignmentwithtrees_pl\fiberflowassignmentwithtrees\fiberflowassignment\fibernet.cpp:wiersz 3864
+   w MessyGA.CVirusGA.eRun(CVirusGA* , CError* , Double dMaxTime, Double dSimpleTime, Double dProbingTime, CStringT<char\,ATL::StrTraitATL<char\,ATL::ChTraitsCRT<char> > >* sReportFile, CStringT<char\,ATL::StrTraitATL<char\,ATL::ChTraitsCRT<char> > >* sSummarizedReport, CStringT<char\,ATL::StrTraitATL<char\,ATL::ChTraitsCRT<char> > >* sReferenceSolution, Double* pdOptimalValue, ListBox listInfo) w d:\studia\doktoranckie\publikacje\x 2018.03 eony z corami\kody_piotrka\2018.09.25 fiberflowassignmentwithtrees_pl\fiberflowassignmentwithtrees\messgas\messyga.cpp:wiersz 4106
+   w CSystem.eRun(CSystem* , CError* , CStringT<char\,ATL::StrTraitATL<char\,ATL::ChTraitsCRT<char> > >* sMainDir, CStringT<char\,ATL::StrTraitATL<char\,ATL::ChTraitsCRT<char> > >* sSettings, ListBox listInfo) w d:\studia\doktoranckie\publikacje\x 2018.03 eony z corami\kody_piotrka\2018.09.25 fiberflowassignmentwithtrees_pl\fiberflowassignmentwithtrees\fiberflowassignment\system.cpp:wiersz 1060
+ General muppets error
+______________
+
+Error local time: 2019-05-15 22:43:59
+Error Message:
+System.Runtime.InteropServices.SEHException: Sk³adnik zewnêtrzny zg³osi³ wyj¹tek.
+   w _CxxThrowException(Void* , _s__ThrowInfo* )
+   w std.vector<FiberNets::CFitnessPair,std::allocator<FiberNets::CFitnessPair> >._Xran() w c:\program files (x86)\microsoft visual studio 9.0\vc\include\vector:wiersz 1263
+   w std.vector<FiberNets::CFitnessPair,std::allocator<FiberNets::CFitnessPair> >.at(vector<FiberNets::CFitnessPair\,std::allocator<FiberNets::CFitnessPair> >* , UInt32 _Pos) w c:\program files (x86)\microsoft visual studio 9.0\vc\include\vector:wiersz 754
+   w FiberNets.CFiberSolution.vFitnessDiversitySave(CFiberSolution* , CStringT<char\,ATL::StrTraitATL<char\,ATL::ChTraitsCRT<char> > >* sDest) w d:\studia\doktoranckie\publikacje\x 2018.03 eony z corami\kody_piotrka\2018.09.25 fiberflowassignmentwithtrees_pl\fiberflowassignmentwithtrees\fiberflowassignment\fibernet.cpp:wiersz 3865
+   w MessyGA.CVirusGA.eRun(CVirusGA* , CError* , Double dMaxTime, Double dSimpleTime, Double dProbingTime, CStringT<char\,ATL::StrTraitATL<char\,ATL::ChTraitsCRT<char> > >* sReportFile, CStringT<char\,ATL::StrTraitATL<char\,ATL::ChTraitsCRT<char> > >* sSummarizedReport, CStringT<char\,ATL::StrTraitATL<char\,ATL::ChTraitsCRT<char> > >* sReferenceSolution, Double* pdOptimalValue, ListBox listInfo) w d:\studia\doktoranckie\publikacje\x 2018.03 eony z corami\kody_piotrka\2018.09.25 fiberflowassignmentwithtrees_pl\fiberflowassignmentwithtrees\messgas\messyga.cpp:wiersz 4106
+   w CSystem.eRun(CSystem* , CError* , CStringT<char\,ATL::StrTraitATL<char\,ATL::ChTraitsCRT<char> > >* sMainDir, CStringT<char\,ATL::StrTraitATL<char\,ATL::ChTraitsCRT<char> > >* sSettings, ListBox listInfo) w d:\studia\doktoranckie\publikacje\x 2018.03 eony z corami\kody_piotrka\2018.09.25 fiberflowassignmentwithtrees_pl\fiberflowassignmentwithtrees\fiberflowassignment\system.cpp:wiersz 1060
+ General muppets error
+______________
+
+Error local time: 2019-05-21 06:30:00
+Error Message:
+No net file defined
+______________
+
+Error local time: 2019-05-21 06:30:31
+Error Message:
+No unicast dem file defined 1 (D:\studia\doktoranckie\publikacje\X 2018.03 EONy z corami\kody_piotrka\2018.09.25 FiberFlowAssignmentWithTrees_pl\FiberFlowAssignmentWithTrees\release\.\pl_5t\00.dem)
+______________
+
+Error local time: 2019-05-21 06:31:24
+Error Message:
+System.Runtime.InteropServices.SEHException: Sk³adnik zewnêtrzny zg³osi³ wyj¹tek.
+   w _CxxThrowException(Void* , _s__ThrowInfo* )
+   w std.vector<FiberNets::CFiberPath *,std::allocator<FiberNets::CFiberPath *> >._Xran() w c:\program files (x86)\microsoft visual studio 9.0\vc\include\vector:wiersz 1263
+   w MessyGA.CmGA.eVirGenerateRandomTemplate(CmGA* , CError* ) w d:\studia\doktoranckie\publikacje\x 2018.03 eony z corami\kody_piotrka\2018.09.25 fiberflowassignmentwithtrees_pl\fiberflowassignmentwithtrees\messgas\messyga.cpp:wiersz 6887
+   w MessyGA.CVirusGA.v_add_new_ct(CVirusGA* ) w d:\studia\doktoranckie\publikacje\x 2018.03 eony z corami\kody_piotrka\2018.09.25 fiberflowassignmentwithtrees_pl\fiberflowassignmentwithtrees\messgas\messyga.cpp:wiersz 1577
+   w MessyGA.CVirusGA.eRun(CVirusGA* , CError* , Double dMaxTime, Double dSimpleTime, Double dProbingTime, CStringT<char\,ATL::StrTraitATL<char\,ATL::ChTraitsCRT<char> > >* sReportFile, CStringT<char\,ATL::StrTraitATL<char\,ATL::ChTraitsCRT<char> > >* sSummarizedReport, CStringT<char\,ATL::StrTraitATL<char\,ATL::ChTraitsCRT<char> > >* sReferenceSolution, Double* pdOptimalValue, ListBox listInfo) w d:\studia\doktoranckie\publikacje\x 2018.03 eony z corami\kody_piotrka\2018.09.25 fiberflowassignmentwithtrees_pl\fiberflowassignmentwithtrees\messgas\messyga.cpp:wiersz 3711
+   w CSystem.eRun(CSystem* , CError* , CStringT<char\,ATL::StrTraitATL<char\,ATL::ChTraitsCRT<char> > >* sMainDir, CStringT<char\,ATL::StrTraitATL<char\,ATL::ChTraitsCRT<char> > >* sSettings, ListBox listInfo) w d:\studia\doktoranckie\publikacje\x 2018.03 eony z corami\kody_piotrka\2018.09.25 fiberflowassignmentwithtrees_pl\fiberflowassignmentwithtrees\fiberflowassignment\system.cpp:wiersz 1060
+ General muppets error
+______________
+
+Error local time: 2019-05-21 06:53:28
+Error Message:
+Couldnt open settings files series file (D:\studia\doktoranckie\publikacje\X 2018.03 EONy z corami\kody_piotrka\2018.09.25 FiberFlowAssignmentWithTrees_pl\FiberFlowAssignmentWithTrees\release\serie.txt)
+______________
+
+Error local time: 2019-05-21 06:53:50
+Error Message:
+Couldnt open settings file (D:\studia\doktoranckie\publikacje\X 2018.03 EONy z corami\kody_piotrka\2018.09.25 FiberFlowAssignmentWithTrees_pl\FiberFlowAssignmentWithTrees\release\ | z_mup_settings_pp0001200202.txt)
+______________
+
+Error local time: 2019-05-21 06:54:08
+Error Message:
+Couldnt open settings file (D:\studia\doktoranckie\publikacje\X 2018.03 EONy z corami\kody_piotrka\2018.09.25 FiberFlowAssignmentWithTrees_pl\FiberFlowAssignmentWithTrees\release\ | z_mup_settings_pp0001200202.txt)
+______________
+
